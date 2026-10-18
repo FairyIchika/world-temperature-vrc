@@ -1,0 +1,61 @@
+city,country_iso2,lat,lon
+Tokyo,JP,35.69,139.69
+Osaka,JP,34.69,135.5
+Seoul,KR,37.57,126.98
+Beijing,CN,39.9,116.41
+Shanghai,CN,31.23,121.47
+Guangzhou,CN,23.13,113.26
+Hong Kong,HK,22.32,114.17
+Taipei,TW,25.05,121.53
+Singapore,SG,1.35,103.82
+Jakarta,ID,-6.21,106.85
+Bangkok,TH,13.75,100.52
+Ho Chi Minh City,VN,10.82,106.63
+Hanoi,VN,21.03,105.85
+Manila,PH,14.6,120.98
+Kuala Lumpur,MY,3.14,101.69
+Delhi,IN,28.66,77.23
+Mumbai,IN,19.08,72.88
+Kolkata,IN,22.57,88.36
+Dhaka,BD,23.72,90.41
+Karachi,PK,24.86,67.01
+Dubai,AE,25.2,55.27
+Riyadh,SA,24.69,46.72
+Istanbul,TR,41.01,28.95
+Moscow,RU,55.75,37.62
+London,GB,51.51,-0.13
+Paris,FR,48.86,2.35
+Berlin,DE,52.52,13.4
+Madrid,ES,40.42,-3.7
+Rome,IT,41.9,12.5
+Amsterdam,NL,52.37,4.9
+Stockholm,SE,59.33,18.07
+Cairo,EG,30.04,31.24
+Lagos,NG,6.52,3.38
+Nairobi,KE,-1.29,36.82
+Johannesburg,ZA,-26.2,28.04
+Cape Town,ZA,-33.93,18.42
+New York City,US,40.71,-74.01
+Los Angeles,US,34.05,-118.24
+Chicago,US,41.88,-87.63
+Toronto,CA,43.65,-79.38
+Mexico City,MX,19.43,-99.13
+São Paulo,BR,-23.55,-46.63
+Rio de Janeiro,BR,-22.91,-43.17
+Buenos Aires,AR,-34.61,-58.38
+Bogotá,CO,4.71,-74.07
+Lima,PE,-12.05,-77.04
+Santiago,CL,-33.46,-70.65
+Sydney,AU,-33.87,151.21
+Melbourne,AU,-37.81,144.96
+Auckland,NZ,-36.87,174.77
+Athens,GR,37.98,23.73
+Oslo,NO,59.91,10.75
+Casablanca,MA,33.59,-7.62
+Accra,GH,5.56,-0.2
+Addis Ababa,ET,9.03,38.74
+Kathmandu,NP,27.72,85.32
+Ulaanbaatar,MN,47.9,106.91
+Brisbane,AU,-27.47,153.02
+Montevideo,UY,-34.9,-56.19
+Vancouver,CA,49.25,-123.12
