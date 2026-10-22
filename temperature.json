@@ -1,307 +1,307 @@
 {
-  "average_c": 20.3,
+  "average_c": 20.5,
   "count": 60,
-  "updated_utc": "2026-10-22 06:57 UTC",
+  "updated_utc": "2026-10-22 07:43 UTC",
   "cities": [
     {
       "name": "Tokyo",
-      "temperature_c": 20.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 19.6,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Osaka",
-      "temperature_c": 20.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 20.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Seoul",
-      "temperature_c": 14.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 14.3,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Beijing",
-      "temperature_c": 15.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 15.2,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Shanghai",
-      "temperature_c": 20.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 19.8,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Guangzhou",
-      "temperature_c": 31.3,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 31.2,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Hong Kong",
-      "temperature_c": 32.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 32.2,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Taipei",
-      "temperature_c": 24.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 23.6,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Singapore",
-      "temperature_c": 34.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 33.5,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Jakarta",
-      "temperature_c": 32.3,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 32.7,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Bangkok",
-      "temperature_c": 32.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 31.5,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Ho Chi Minh City",
-      "temperature_c": 31.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 31.7,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Hanoi",
-      "temperature_c": 31.4,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 31.5,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Manila",
-      "temperature_c": 33.1,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 32.8,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Kuala Lumpur",
-      "temperature_c": 33.1,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 30.4,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Delhi",
-      "temperature_c": 28.7,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 29.2,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Mumbai",
-      "temperature_c": 34.4,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 34.8,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Kolkata",
-      "temperature_c": 32.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 32.3,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Dhaka",
-      "temperature_c": 33.4,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 33.7,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Karachi",
-      "temperature_c": 36.1,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 36.5,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Dubai",
-      "temperature_c": 34.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 35.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Riyadh",
-      "temperature_c": 32.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 33.6,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Istanbul",
-      "temperature_c": 17.4,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 18.9,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Moscow",
-      "temperature_c": 4.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 5.9,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "London",
       "temperature_c": 9.9,
-      "model_time_utc": "2026-10-22T06:45"
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Paris",
-      "temperature_c": 9.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 9.9,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Berlin",
       "temperature_c": 10.2,
-      "model_time_utc": "2026-10-22T06:45"
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Madrid",
-      "temperature_c": 6.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 6.9,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Rome",
-      "temperature_c": 15.6,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 16.8,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Amsterdam",
-      "temperature_c": 8.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 8.7,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Stockholm",
-      "temperature_c": 12.2,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 12.1,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Cairo",
-      "temperature_c": 21.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 23.3,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Lagos",
-      "temperature_c": 26.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 27.2,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Nairobi",
-      "temperature_c": 25.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 27.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Johannesburg",
-      "temperature_c": 21.1,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 22.6,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Cape Town",
-      "temperature_c": 15.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 16.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "New York City",
-      "temperature_c": 7.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 7.7,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Los Angeles",
-      "temperature_c": 17.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 18.8,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Chicago",
-      "temperature_c": 9.3,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 9.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Toronto",
-      "temperature_c": 4.3,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 3.7,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Mexico City",
-      "temperature_c": 14.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 13.8,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "São Paulo",
       "temperature_c": 16.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Rio de Janeiro",
       "temperature_c": 20.1,
-      "model_time_utc": "2026-10-22T06:45"
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Buenos Aires",
-      "temperature_c": 15.5,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 15.3,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Bogotá",
-      "temperature_c": 12.0,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 11.4,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Lima",
-      "temperature_c": 22.1,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 22.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Santiago",
-      "temperature_c": 12.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 12.3,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Sydney",
-      "temperature_c": 19.7,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 19.5,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Melbourne",
-      "temperature_c": 29.3,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 28.5,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Auckland",
-      "temperature_c": 15.4,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 15.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Athens",
-      "temperature_c": 19.7,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 21.6,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Oslo",
       "temperature_c": 12.2,
-      "model_time_utc": "2026-10-22T06:45"
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Casablanca",
-      "temperature_c": 17.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 18.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Accra",
-      "temperature_c": 25.3,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 26.8,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Addis Ababa",
-      "temperature_c": 19.8,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 21.0,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Kathmandu",
-      "temperature_c": 24.4,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 24.1,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Ulaanbaatar",
-      "temperature_c": 0.6,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 0.5,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Brisbane",
-      "temperature_c": 19.1,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 18.7,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Montevideo",
-      "temperature_c": 13.6,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 13.7,
+      "model_time_utc": "2026-10-22T07:30"
     },
     {
       "name": "Vancouver",
-      "temperature_c": 7.9,
-      "model_time_utc": "2026-10-22T06:45"
+      "temperature_c": 7.7,
+      "model_time_utc": "2026-10-22T07:30"
     }
   ]
 }
