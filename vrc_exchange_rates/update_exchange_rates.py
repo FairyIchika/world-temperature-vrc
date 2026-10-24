@@ -106,11 +106,17 @@ def main():
         "",
     ]
 
+        # ---------------------------------------
+    # VRChat表示用テキスト
+    # 3通貨ずつ1行
+    # ---------------------------------------
+
+    display_items = []
+
     for item in output_rates:
         code = item["code"]
         value = item["jpy"]
 
-        # 桁によって見やすく
         if value >= 100:
             formatted = f"{value:,.2f}"
         elif value >= 1:
@@ -118,23 +124,25 @@ def main():
         else:
             formatted = f"{value:,.4f}"
 
-        lines.append(
-            f"1 {code} = {formatted} JPY"
+        display_items.append(
+            f"{code} {formatted} JPY"
         )
 
+    lines = [
+        "WORLD EXCHANGE RATES",
+        ""
+    ]
+
+    # 3通貨ずつ並べる
+    for i in range(0, len(display_items), 3):
+        row = display_items[i:i + 3]
+        lines.append("     ".join(row))
+
+    # 最後に更新日時だけ埋め込む
     lines.extend([
         "",
-        f"Published: {publication_date}",
-        f"Updated: {generated_at}",
-        "Source: European Central Bank"
+        f"Updated: {generated_at}"
     ])
 
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-
-    print(f"Created {json_path}")
-    print(f"Created {txt_path}")
-
-
-if __name__ == "__main__":
-    main()
