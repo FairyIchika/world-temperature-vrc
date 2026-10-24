@@ -1,0 +1,108 @@
+{
+  "source": "European Central Bank",
+  "publication_date": "2026-10-23",
+  "generated_at": "2026-10-24 11:02 UTC",
+  "base": "JPY",
+  "rates": [
+    {
+      "code": "USD",
+      "name": "US Dollar",
+      "jpy": 156.8034
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "jpy": 175.51
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound",
+      "jpy": 209.6192
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "jpy": 23.5079
+    },
+    {
+      "code": "KRW",
+      "name": "South Korean Won",
+      "jpy": 0.1184
+    },
+    {
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "jpy": 110.1136
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "jpy": 112.0396
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "jpy": 190.2135
+    },
+    {
+      "code": "INR",
+      "name": "Indian Rupee",
+      "jpy": 1.6515
+    },
+    {
+      "code": "BRL",
+      "name": "Brazilian Real",
+      "jpy": 31.072
+    },
+    {
+      "code": "MXN",
+      "name": "Mexican Peso",
+      "jpy": 8.3486
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore Dollar",
+      "jpy": 122.6485
+    },
+    {
+      "code": "HKD",
+      "name": "Hong Kong Dollar",
+      "jpy": 19.9913
+    },
+    {
+      "code": "NZD",
+      "name": "New Zealand Dollar",
+      "jpy": 89.1728
+    },
+    {
+      "code": "ZAR",
+      "name": "South African Rand",
+      "jpy": 9.4473
+    },
+    {
+      "code": "TRY",
+      "name": "Turkish Lira",
+      "jpy": 3.1526
+    },
+    {
+      "code": "THB",
+      "name": "Thai Baht",
+      "jpy": 4.6467
+    },
+    {
+      "code": "IDR",
+      "name": "Indonesian Rupiah",
+      "jpy": 0.0087
+    },
+    {
+      "code": "MYR",
+      "name": "Malaysian Ringgit",
+      "jpy": 38.3805
+    },
+    {
+      "code": "PHP",
+      "name": "Philippine Peso",
+      "jpy": 2.4638
+    }
+  ]
+}
