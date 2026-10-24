@@ -6,36 +6,20 @@ from pathlib import Path
 
 API_URL = "https://theratesapi.com/api/latest"
 
-# 表示したい通貨
-CURRENCIES = [
-    ("USD", "US Dollar"),
-    ("EUR", "Euro"),
-    ("GBP", "British Pound"),
-    ("CNY", "Chinese Yuan"),
-    ("KRW", "South Korean Won"),
-    ("AUD", "Australian Dollar"),
-    ("CAD", "Canadian Dollar"),
-    ("CHF", "Swiss Franc"),
-    ("INR", "Indian Rupee"),
-    ("BRL", "Brazilian Real"),
-    ("MXN", "Mexican Peso"),
-    ("SGD", "Singapore Dollar"),
-    ("HKD", "Hong Kong Dollar"),
-    ("NZD", "New Zealand Dollar"),
-    ("ZAR", "South African Rand"),
-    ("TRY", "Turkish Lira"),
-    ("THB", "Thai Baht"),
-    ("IDR", "Indonesian Rupiah"),
-    ("MYR", "Malaysian Ringgit"),
-    ("PHP", "Philippine Peso"),
-]
+# 1ページ = 3列 × 6行
+COLUMNS = 3
+ROWS_PER_PAGE = 6
+ITEMS_PER_PAGE = COLUMNS * ROWS_PER_PAGE
+
+PAGE_MARKER = "[[PAGE]]"
+UPDATED_MARKER = "[[UPDATED]]"
 
 
 def fetch_rates():
     request = urllib.request.Request(
         API_URL,
         headers={
-            "User-Agent": "VRChat-World-Exchange-Display/1.0"
+            "User-Agent": "VRChat-World-Exchange-Display/2.0"
         }
     )
 
@@ -48,14 +32,26 @@ def fetch_rates():
         )
 
 
+def format_jpy(value):
+    if value >= 100:
+        return f"{value:,.2f}"
+
+    if value >= 1:
+        return f"{value:,.3f}"
+
+    if value >= 0.01:
+        return f"{value:,.4f}"
+
+    return f"{value:,.6f}"
+
+
 def main():
     data = fetch_rates()
 
-    # ECB系APIなのでEUR基準
     rates = data["rates"]
     publication_date = data["date"]
 
-    # EUR自身はratesに含まれない場合がある
+    # APIはEUR基準なのでEURを補う
     rates["EUR"] = 1.0
 
     if "JPY" not in rates:
@@ -67,22 +63,22 @@ def main():
 
     output_rates = []
 
-    for code, name in CURRENCIES:
-        if code not in rates:
-            print(
-                f"Skipping unsupported currency: {code}"
-            )
+    # 通貨コード順に並べる
+    for code in sorted(rates.keys()):
+
+        # JPY / JPY は意味がないので表示しない
+        if code == "JPY":
             continue
 
-        currency_per_eur = float(
-            rates[code]
-        )
+        currency_per_eur = float(rates[code])
+
+        if currency_per_eur == 0:
+            continue
 
         # 1 EUR = X JPY
         # 1 EUR = Y currency
         #
-        # したがって
-        # 1 currency = X / Y JPY
+        # → 1 currency = X / Y JPY
         jpy_value = (
             jpy_per_eur /
             currency_per_eur
@@ -90,8 +86,7 @@ def main():
 
         output_rates.append({
             "code": code,
-            "name": name,
-            "jpy": round(jpy_value, 4)
+            "jpy": jpy_value
         })
 
     generated_at = (
@@ -99,10 +94,6 @@ def main():
         .now(timezone.utc)
         .strftime("%Y-%m-%d %H:%M UTC")
     )
-
-    # ---------------------------------------
-    # 出力先
-    # ---------------------------------------
 
     root = (
         Path(__file__)
@@ -122,14 +113,15 @@ def main():
     )
 
     # ---------------------------------------
-    # JSON版
+    # JSON
     # ---------------------------------------
 
     output_json = {
-        "source": "European Central Bank",
+        "source": "European Central Bank / Banca d'Italia",
         "publication_date": publication_date,
         "generated_at": generated_at,
         "base": "JPY",
+        "currency_count": len(output_rates),
         "rates": output_rates
     }
 
@@ -146,53 +138,61 @@ def main():
         )
 
     # ---------------------------------------
-    # VRChat表示用TXT
-    # 3通貨ずつ1行
+    # VRChat TXT
     # ---------------------------------------
 
-    display_items = []
+    pages = []
 
-    for item in output_rates:
-        code = item["code"]
-        value = item["jpy"]
-
-        # 数値の大きさに応じて
-        # 小数点以下の桁数を調整
-        if value >= 100:
-            formatted = f"{value:,.2f}"
-
-        elif value >= 1:
-            formatted = f"{value:,.3f}"
-
-        else:
-            formatted = f"{value:,.4f}"
-
-        display_items.append(
-            f"{code} {formatted} JPY"
-        )
-
-    lines = []
-
-    # 3通貨ずつ1行
-    for i in range(
+    for page_start in range(
         0,
-        len(display_items),
-        3
+        len(output_rates),
+        ITEMS_PER_PAGE
     ):
-        row = display_items[
-            i:i + 3
+        page_items = output_rates[
+            page_start:
+            page_start + ITEMS_PER_PAGE
         ]
 
-        lines.append(
-            "     ".join(row)
+        display_items = []
+
+        for item in page_items:
+            display_items.append(
+                f"{item['code']} "
+                f"{format_jpy(item['jpy'])} JPY"
+            )
+
+        page_lines = []
+
+        # 3通貨ずつ1行
+        for i in range(
+            0,
+            len(display_items),
+            COLUMNS
+        ):
+            row = display_items[
+                i:i + COLUMNS
+            ]
+
+            page_lines.append(
+                "     ".join(row)
+            )
+
+        pages.append(
+            "\n".join(page_lines)
         )
 
-    # Status Text側で抜き出すため、
-    # 最後にUpdatedだけ入れる
-    lines.extend([
-        "",
+    # ページをマーカーで区切る
+    lines = []
+
+    for page in pages:
+        lines.append(PAGE_MARKER)
+        lines.append(page)
+
+    # 最後に更新日時
+    lines.append(UPDATED_MARKER)
+    lines.append(
         f"Updated: {generated_at}"
-    ])
+    )
 
     with open(
         txt_path,
@@ -204,11 +204,8 @@ def main():
         )
 
     print(
-        f"Created: {json_path}"
-    )
-
-    print(
-        f"Created: {txt_path}"
+        f"Created {len(output_rates)} currencies "
+        f"in {len(pages)} pages."
     )
 
 
