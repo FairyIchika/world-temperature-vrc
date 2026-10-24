@@ -34,11 +34,18 @@ CURRENCIES = [
 def fetch_rates():
     request = urllib.request.Request(
         API_URL,
-        headers={"User-Agent": "VRChat-World-Exchange-Display/1.0"}
+        headers={
+            "User-Agent": "VRChat-World-Exchange-Display/1.0"
+        }
     )
 
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.loads(response.read().decode("utf-8"))
+    with urllib.request.urlopen(
+        request,
+        timeout=30
+    ) as response:
+        return json.loads(
+            response.read().decode("utf-8")
+        )
 
 
 def main():
@@ -48,11 +55,13 @@ def main():
     rates = data["rates"]
     publication_date = data["date"]
 
-    # EUR自身はAPIのratesに含まれないことがあるので追加
+    # EUR自身はratesに含まれない場合がある
     rates["EUR"] = 1.0
 
     if "JPY" not in rates:
-        raise RuntimeError("JPY rate was not returned by the API.")
+        raise RuntimeError(
+            "JPY rate was not returned by the API."
+        )
 
     jpy_per_eur = float(rates["JPY"])
 
@@ -60,15 +69,24 @@ def main():
 
     for code, name in CURRENCIES:
         if code not in rates:
-            print(f"Skipping unsupported currency: {code}")
+            print(
+                f"Skipping unsupported currency: {code}"
+            )
             continue
 
-        currency_per_eur = float(rates[code])
+        currency_per_eur = float(
+            rates[code]
+        )
 
         # 1 EUR = X JPY
-        # 1 EUR = Y CUR
-        # よって 1 CUR = X/Y JPY
-        jpy_value = jpy_per_eur / currency_per_eur
+        # 1 EUR = Y currency
+        #
+        # したがって
+        # 1 currency = X / Y JPY
+        jpy_value = (
+            jpy_per_eur /
+            currency_per_eur
+        )
 
         output_rates.append({
             "code": code,
@@ -76,9 +94,36 @@ def main():
             "jpy": round(jpy_value, 4)
         })
 
-    generated_at = datetime.now(timezone.utc).strftime(
-        "%Y-%m-%d %H:%M UTC"
+    generated_at = (
+        datetime
+        .now(timezone.utc)
+        .strftime("%Y-%m-%d %H:%M UTC")
     )
+
+    # ---------------------------------------
+    # 出力先
+    # ---------------------------------------
+
+    root = (
+        Path(__file__)
+        .resolve()
+        .parent
+        .parent
+    )
+
+    json_path = (
+        root /
+        "exchange_rates.json"
+    )
+
+    txt_path = (
+        root /
+        "exchange_rates.txt"
+    )
+
+    # ---------------------------------------
+    # JSON版
+    # ---------------------------------------
 
     output_json = {
         "source": "European Central Bank",
@@ -88,12 +133,11 @@ def main():
         "rates": output_rates
     }
 
-    root = Path(__file__).resolve().parent.parent
-
-    json_path = root / "exchange_rates.json"
-    txt_path = root / "exchange_rates.txt"
-
-    with open(json_path, "w", encoding="utf-8") as f:
+    with open(
+        json_path,
+        "w",
+        encoding="utf-8"
+    ) as f:
         json.dump(
             output_json,
             f,
@@ -101,9 +145,8 @@ def main():
             indent=2
         )
 
-
-        # ---------------------------------------
-    # VRChat表示用テキスト
+    # ---------------------------------------
+    # VRChat表示用TXT
     # 3通貨ずつ1行
     # ---------------------------------------
 
@@ -113,10 +156,14 @@ def main():
         code = item["code"]
         value = item["jpy"]
 
+        # 数値の大きさに応じて
+        # 小数点以下の桁数を調整
         if value >= 100:
             formatted = f"{value:,.2f}"
+
         elif value >= 1:
             formatted = f"{value:,.3f}"
+
         else:
             formatted = f"{value:,.4f}"
 
@@ -124,21 +171,46 @@ def main():
             f"{code} {formatted} JPY"
         )
 
-    lines = [
-        "WORLD EXCHANGE RATES",
-        ""
-    ]
+    lines = []
 
-    # 3通貨ずつ並べる
-    for i in range(0, len(display_items), 3):
-        row = display_items[i:i + 3]
-        lines.append("     ".join(row))
+    # 3通貨ずつ1行
+    for i in range(
+        0,
+        len(display_items),
+        3
+    ):
+        row = display_items[
+            i:i + 3
+        ]
 
-    # 最後に更新日時だけ埋め込む
+        lines.append(
+            "     ".join(row)
+        )
+
+    # Status Text側で抜き出すため、
+    # 最後にUpdatedだけ入れる
     lines.extend([
         "",
         f"Updated: {generated_at}"
     ])
 
-    with open(txt_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
+    with open(
+        txt_path,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        f.write(
+            "\n".join(lines)
+        )
+
+    print(
+        f"Created: {json_path}"
+    )
+
+    print(
+        f"Created: {txt_path}"
+    )
+
+
+if __name__ == "__main__":
+    main()
