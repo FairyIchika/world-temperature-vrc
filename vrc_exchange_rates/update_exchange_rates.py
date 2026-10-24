@@ -101,10 +101,6 @@ def main():
             indent=2
         )
 
-    lines = [
-        "WORLD EXCHANGE RATES",
-        "",
-    ]
 
         # ---------------------------------------
     # VRChat表示用テキスト
