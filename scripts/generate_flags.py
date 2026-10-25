@@ -3,6 +3,7 @@ import urllib.request
 from pathlib import Path
 
 import cairosvg
+from babel import Locale
 
 
 # ============================================
@@ -22,11 +23,12 @@ LICENSE_URL = (
     UPSTREAM_BASE + "LICENSE"
 )
 
+# Unity内蔵用なので128px
 PNG_WIDTH = 128
 
 
 # ============================================
-# Helpers
+# Download Helpers
 # ============================================
 
 def download_bytes(url):
@@ -34,7 +36,7 @@ def download_bytes(url):
         url,
         headers={
             "User-Agent":
-                "VRChat-World-Flag-System/1.0"
+                "VRChat-World-Flag-System/2.0"
         }
     )
 
@@ -56,12 +58,21 @@ def download_text(url):
 # ============================================
 
 def main():
+
+    # ----------------------------------------
+    # リポジトリ直下
+    # ----------------------------------------
+
     root = (
         Path(__file__)
         .resolve()
         .parent
         .parent
     )
+
+    # ----------------------------------------
+    # 出力先
+    # ----------------------------------------
 
     output_dir = (
         root /
@@ -74,9 +85,31 @@ def main():
         exist_ok=True
     )
 
-    # ----------------------------------------
-    # country.json を取得
-    # ----------------------------------------
+    metadata_path = (
+        root /
+        "flags" /
+        "countries.json"
+    )
+
+    license_path = (
+        root /
+        "flags" /
+        "THIRD_PARTY_LICENSE_flag-icons.txt"
+    )
+
+
+    # ========================================
+    # 日本語ロケール
+    # ========================================
+
+    ja_locale = Locale.parse(
+        "ja"
+    )
+
+
+    # ========================================
+    # country.json取得
+    # ========================================
 
     print(
         "Downloading country metadata..."
@@ -88,7 +121,11 @@ def main():
         )
     )
 
-    # ISO国・地域だけ使用
+
+    # ========================================
+    # ISO国・地域だけ抽出
+    # ========================================
+
     countries = [
         country
         for country in country_data
@@ -100,48 +137,128 @@ def main():
         key=lambda x: x["code"]
     )
 
+
+    # ========================================
+    # メタデータ格納
+    # ========================================
+
     generated_metadata = []
 
-    # ----------------------------------------
-    # SVG → PNG
-    # ----------------------------------------
-
     total = len(countries)
+
+
+    # ========================================
+    # SVG → PNG
+    # ========================================
 
     for index, country in enumerate(
         countries,
         start=1
     ):
-        code = (
+
+        # ------------------------------------
+        # 基本情報
+        # ------------------------------------
+
+        iso_code = (
             country["code"]
+            .upper()
+        )
+
+        code_lower = (
+            iso_code
             .lower()
         )
 
-        name = country["name"]
+        english_name = (
+            country
+            .get(
+                "name",
+                iso_code
+            )
+        )
 
-        svg_path = country[
-            "flag_4x3"
-        ]
+        # CLDRから日本語国名取得
+        japanese_name = (
+            ja_locale
+            .territories
+            .get(
+                iso_code,
+                english_name
+            )
+        )
+
+        capital = (
+            country
+            .get(
+                "capital",
+                ""
+            )
+        )
+
+        continent = (
+            country
+            .get(
+                "continent",
+                ""
+            )
+        )
+
+
+        # ------------------------------------
+        # SVG URL
+        # ------------------------------------
+
+        svg_path = (
+            country["flag_4x3"]
+        )
 
         svg_url = (
             UPSTREAM_BASE +
             svg_path
         )
 
+
+        # ------------------------------------
+        # PNG出力先
+        # ------------------------------------
+
+        png_filename = (
+            f"{code_lower}.png"
+        )
+
         png_path = (
             output_dir /
-            f"{code}.png"
+            png_filename
         )
+
+
+        # ------------------------------------
+        # ログ
+        # ------------------------------------
 
         print(
             f"[{index}/{total}] "
-            f"{code} - {name}"
+            f"{iso_code} "
+            f"{english_name} "
+            f"({japanese_name})"
         )
 
+
+        # ------------------------------------
+        # SVGダウンロード
+        # ------------------------------------
+
         try:
+
             svg_data = download_bytes(
                 svg_url
             )
+
+
+            # --------------------------------
+            # SVG → PNG
+            # --------------------------------
 
             cairosvg.svg2png(
                 bytestring=svg_data,
@@ -152,45 +269,51 @@ def main():
             )
 
         except Exception as error:
+
             print(
-                f"ERROR: {code}: "
+                f"ERROR: "
+                f"{iso_code}: "
                 f"{error}"
             )
 
             continue
 
+
+        # ------------------------------------
+        # countries.json用
+        # ------------------------------------
+
         generated_metadata.append({
-            "code": code.upper(),
-            "name": name,
+            "code":
+                iso_code,
+
+            "name":
+                english_name,
+
+            "name_ja":
+                japanese_name,
+
             "capital":
-                country.get(
-                    "capital",
-                    ""
-                ),
+                capital,
+
             "continent":
-                country.get(
-                    "continent",
-                    ""
-                ),
+                continent,
+
             "file":
-                f"{code}.png"
+                png_filename
         })
 
-    # ----------------------------------------
-    # VRChatでも使える国一覧JSON
-    # ----------------------------------------
 
-    metadata_path = (
-        root /
-        "flags" /
-        "countries.json"
-    )
+    # ========================================
+    # countries.json保存
+    # ========================================
 
     with open(
         metadata_path,
         "w",
         encoding="utf-8"
     ) as f:
+
         json.dump(
             generated_metadata,
             f,
@@ -198,18 +321,17 @@ def main():
             indent=2
         )
 
-    # ----------------------------------------
-    # 上流ライセンスも保存
-    # ----------------------------------------
+
+    # ========================================
+    # ライセンス保存
+    # ========================================
+
+    print(
+        "Downloading upstream license..."
+    )
 
     license_text = download_text(
         LICENSE_URL
-    )
-
-    license_path = (
-        root /
-        "flags" /
-        "THIRD_PARTY_LICENSE_flag-icons.txt"
     )
 
     with open(
@@ -217,28 +339,54 @@ def main():
         "w",
         encoding="utf-8"
     ) as f:
+
         f.write(
             license_text
         )
 
+
+    # ========================================
+    # 完了ログ
+    # ========================================
+
     print()
     print(
-        "=============================="
-    )
-    print(
-        f"Generated: "
-        f"{len(generated_metadata)} flags"
-    )
-    print(
-        f"PNG directory: {output_dir}"
-    )
-    print(
-        f"Metadata: {metadata_path}"
-    )
-    print(
-        "=============================="
+        "========================================"
     )
 
+    print(
+        f"Generated flags: "
+        f"{len(generated_metadata)}"
+    )
+
+    print(
+        f"PNG width: "
+        f"{PNG_WIDTH}px"
+    )
+
+    print(
+        f"PNG directory: "
+        f"{output_dir}"
+    )
+
+    print(
+        f"Metadata: "
+        f"{metadata_path}"
+    )
+
+    print(
+        f"License: "
+        f"{license_path}"
+    )
+
+    print(
+        "========================================"
+    )
+
+
+# ============================================
+# Entry Point
+# ============================================
 
 if __name__ == "__main__":
     main()
