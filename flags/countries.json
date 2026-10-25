@@ -2,6 +2,7 @@
   {
     "code": "AD",
     "name": "Andorra",
+    "name_ja": "アンドラ",
     "capital": "Andorra la Vella",
     "continent": "Europe",
     "file": "ad.png"
@@ -9,6 +10,7 @@
   {
     "code": "AE",
     "name": "United Arab Emirates",
+    "name_ja": "アラブ首長国連邦",
     "capital": "Abu Dhabi",
     "continent": "Asia",
     "file": "ae.png"
@@ -16,6 +18,7 @@
   {
     "code": "AF",
     "name": "Afghanistan",
+    "name_ja": "アフガニスタン",
     "capital": "Kabul",
     "continent": "Asia",
     "file": "af.png"
@@ -23,6 +26,7 @@
   {
     "code": "AG",
     "name": "Antigua and Barbuda",
+    "name_ja": "アンティグア・バーブーダ",
     "capital": "St. John's",
     "continent": "North America",
     "file": "ag.png"
@@ -30,6 +34,7 @@
   {
     "code": "AI",
     "name": "Anguilla",
+    "name_ja": "アンギラ",
     "capital": "The Valley",
     "continent": "North America",
     "file": "ai.png"
@@ -37,6 +42,7 @@
   {
     "code": "AL",
     "name": "Albania",
+    "name_ja": "アルバニア",
     "capital": "Tirana",
     "continent": "Europe",
     "file": "al.png"
@@ -44,6 +50,7 @@
   {
     "code": "AM",
     "name": "Armenia",
+    "name_ja": "アルメニア",
     "capital": "Yerevan",
     "continent": "Asia",
     "file": "am.png"
@@ -51,6 +58,7 @@
   {
     "code": "AO",
     "name": "Angola",
+    "name_ja": "アンゴラ",
     "capital": "Luanda",
     "continent": "Africa",
     "file": "ao.png"
@@ -58,6 +66,7 @@
   {
     "code": "AQ",
     "name": "Antarctica",
+    "name_ja": "南極",
     "capital": "",
     "continent": "",
     "file": "aq.png"
@@ -65,6 +74,7 @@
   {
     "code": "AR",
     "name": "Argentina",
+    "name_ja": "アルゼンチン",
     "capital": "Buenos Aires",
     "continent": "South America",
     "file": "ar.png"
@@ -72,6 +82,7 @@
   {
     "code": "AS",
     "name": "American Samoa",
+    "name_ja": "米領サモア",
     "capital": "Pago Pago",
     "continent": "Oceania",
     "file": "as.png"
@@ -79,6 +90,7 @@
   {
     "code": "AT",
     "name": "Austria",
+    "name_ja": "オーストリア",
     "capital": "Vienna",
     "continent": "Europe",
     "file": "at.png"
@@ -86,6 +98,7 @@
   {
     "code": "AU",
     "name": "Australia",
+    "name_ja": "オーストラリア",
     "capital": "Canberra",
     "continent": "Oceania",
     "file": "au.png"
@@ -93,6 +106,7 @@
   {
     "code": "AW",
     "name": "Aruba",
+    "name_ja": "アルバ",
     "capital": "Oranjestad",
     "continent": "South America",
     "file": "aw.png"
@@ -100,6 +114,7 @@
   {
     "code": "AX",
     "name": "Aland Islands",
+    "name_ja": "オーランド諸島",
     "capital": "Mariehamn",
     "continent": "Europe",
     "file": "ax.png"
@@ -107,6 +122,7 @@
   {
     "code": "AZ",
     "name": "Azerbaijan",
+    "name_ja": "アゼルバイジャン",
     "capital": "Baku",
     "continent": "Asia",
     "file": "az.png"
@@ -114,6 +130,7 @@
   {
     "code": "BA",
     "name": "Bosnia and Herzegovina",
+    "name_ja": "ボスニア・ヘルツェゴビナ",
     "capital": "Sarajevo",
     "continent": "Europe",
     "file": "ba.png"
@@ -121,6 +138,7 @@
   {
     "code": "BB",
     "name": "Barbados",
+    "name_ja": "バルバドス",
     "capital": "Bridgetown",
     "continent": "North America",
     "file": "bb.png"
@@ -128,6 +146,7 @@
   {
     "code": "BD",
     "name": "Bangladesh",
+    "name_ja": "バングラデシュ",
     "capital": "Dhaka",
     "continent": "Asia",
     "file": "bd.png"
@@ -135,6 +154,7 @@
   {
     "code": "BE",
     "name": "Belgium",
+    "name_ja": "ベルギー",
     "capital": "Brussels",
     "continent": "Europe",
     "file": "be.png"
@@ -142,6 +162,7 @@
   {
     "code": "BF",
     "name": "Burkina Faso",
+    "name_ja": "ブルキナファソ",
     "capital": "Ouagadougou",
     "continent": "Africa",
     "file": "bf.png"
@@ -149,6 +170,7 @@
   {
     "code": "BG",
     "name": "Bulgaria",
+    "name_ja": "ブルガリア",
     "capital": "Sofia",
     "continent": "Europe",
     "file": "bg.png"
@@ -156,6 +178,7 @@
   {
     "code": "BH",
     "name": "Bahrain",
+    "name_ja": "バーレーン",
     "capital": "Manama",
     "continent": "Asia",
     "file": "bh.png"
@@ -163,6 +186,7 @@
   {
     "code": "BI",
     "name": "Burundi",
+    "name_ja": "ブルンジ",
     "capital": "Bujumbura",
     "continent": "Africa",
     "file": "bi.png"
@@ -170,6 +194,7 @@
   {
     "code": "BJ",
     "name": "Benin",
+    "name_ja": "ベナン",
     "capital": "Porto-Novo",
     "continent": "Africa",
     "file": "bj.png"
@@ -177,6 +202,7 @@
   {
     "code": "BL",
     "name": "Saint Barthélemy",
+    "name_ja": "サン・バルテルミー",
     "capital": "Gustavia",
     "continent": "North America",
     "file": "bl.png"
@@ -184,6 +210,7 @@
   {
     "code": "BM",
     "name": "Bermuda",
+    "name_ja": "バミューダ",
     "capital": "Hamilton",
     "continent": "North America",
     "file": "bm.png"
@@ -191,6 +218,7 @@
   {
     "code": "BN",
     "name": "Brunei Darussalam",
+    "name_ja": "ブルネイ",
     "capital": "Bandar Seri Begawan",
     "continent": "Asia",
     "file": "bn.png"
@@ -198,6 +226,7 @@
   {
     "code": "BO",
     "name": "Bolivia",
+    "name_ja": "ボリビア",
     "capital": "Sucre",
     "continent": "South America",
     "file": "bo.png"
@@ -205,6 +234,7 @@
   {
     "code": "BQ",
     "name": "Bonaire, Sint Eustatius and Saba",
+    "name_ja": "オランダ領カリブ",
     "capital": "Kralendijk",
     "continent": "South America",
     "file": "bq.png"
@@ -212,6 +242,7 @@
   {
     "code": "BR",
     "name": "Brazil",
+    "name_ja": "ブラジル",
     "capital": "Brasília",
     "continent": "South America",
     "file": "br.png"
@@ -219,6 +250,7 @@
   {
     "code": "BS",
     "name": "Bahamas",
+    "name_ja": "バハマ",
     "capital": "Nassau",
     "continent": "North America",
     "file": "bs.png"
@@ -226,6 +258,7 @@
   {
     "code": "BT",
     "name": "Bhutan",
+    "name_ja": "ブータン",
     "capital": "Thimphu",
     "continent": "Asia",
     "file": "bt.png"
@@ -233,6 +266,7 @@
   {
     "code": "BV",
     "name": "Bouvet Island",
+    "name_ja": "ブーベ島",
     "capital": "",
     "continent": "",
     "file": "bv.png"
@@ -240,6 +274,7 @@
   {
     "code": "BW",
     "name": "Botswana",
+    "name_ja": "ボツワナ",
     "capital": "Gaborone",
     "continent": "Africa",
     "file": "bw.png"
@@ -247,6 +282,7 @@
   {
     "code": "BY",
     "name": "Belarus",
+    "name_ja": "ベラルーシ",
     "capital": "Minsk",
     "continent": "Europe",
     "file": "by.png"
@@ -254,6 +290,7 @@
   {
     "code": "BZ",
     "name": "Belize",
+    "name_ja": "ベリーズ",
     "capital": "Belmopan",
     "continent": "North America",
     "file": "bz.png"
@@ -261,6 +298,7 @@
   {
     "code": "CA",
     "name": "Canada",
+    "name_ja": "カナダ",
     "capital": "Ottawa",
     "continent": "North America",
     "file": "ca.png"
@@ -268,6 +306,7 @@
   {
     "code": "CC",
     "name": "Cocos (Keeling) Islands",
+    "name_ja": "ココス(キーリング)諸島",
     "capital": "West Island",
     "continent": "Asia",
     "file": "cc.png"
@@ -275,6 +314,7 @@
   {
     "code": "CD",
     "name": "Democratic Republic of the Congo",
+    "name_ja": "コンゴ民主共和国(キンシャサ)",
     "capital": "Kinshasa",
     "continent": "Africa",
     "file": "cd.png"
@@ -282,6 +322,7 @@
   {
     "code": "CF",
     "name": "Central African Republic",
+    "name_ja": "中央アフリカ共和国",
     "capital": "Bangui",
     "continent": "Africa",
     "file": "cf.png"
@@ -289,6 +330,7 @@
   {
     "code": "CG",
     "name": "Republic of the Congo",
+    "name_ja": "コンゴ共和国(ブラザビル)",
     "capital": "Brazzaville",
     "continent": "Africa",
     "file": "cg.png"
@@ -296,6 +338,7 @@
   {
     "code": "CH",
     "name": "Switzerland",
+    "name_ja": "スイス",
     "capital": "Bern",
     "continent": "Europe",
     "file": "ch.png"
@@ -303,6 +346,7 @@
   {
     "code": "CI",
     "name": "Côte d'Ivoire",
+    "name_ja": "コートジボワール",
     "capital": "Yamoussoukro",
     "continent": "Africa",
     "file": "ci.png"
@@ -310,6 +354,7 @@
   {
     "code": "CK",
     "name": "Cook Islands",
+    "name_ja": "クック諸島",
     "capital": "Avarua",
     "continent": "Oceania",
     "file": "ck.png"
@@ -317,6 +362,7 @@
   {
     "code": "CL",
     "name": "Chile",
+    "name_ja": "チリ",
     "capital": "Santiago",
     "continent": "South America",
     "file": "cl.png"
@@ -324,6 +370,7 @@
   {
     "code": "CM",
     "name": "Cameroon",
+    "name_ja": "カメルーン",
     "capital": "Yaoundé",
     "continent": "Africa",
     "file": "cm.png"
@@ -331,6 +378,7 @@
   {
     "code": "CN",
     "name": "China",
+    "name_ja": "中国",
     "capital": "Beijing",
     "continent": "Asia",
     "file": "cn.png"
@@ -338,6 +386,7 @@
   {
     "code": "CO",
     "name": "Colombia",
+    "name_ja": "コロンビア",
     "capital": "Bogotá",
     "continent": "South America",
     "file": "co.png"
@@ -345,6 +394,7 @@
   {
     "code": "CR",
     "name": "Costa Rica",
+    "name_ja": "コスタリカ",
     "capital": "San José",
     "continent": "North America",
     "file": "cr.png"
@@ -352,6 +402,7 @@
   {
     "code": "CU",
     "name": "Cuba",
+    "name_ja": "キューバ",
     "capital": "Havana",
     "continent": "North America",
     "file": "cu.png"
@@ -359,6 +410,7 @@
   {
     "code": "CV",
     "name": "Cabo Verde",
+    "name_ja": "カーボベルデ",
     "capital": "Praia",
     "continent": "Africa",
     "file": "cv.png"
@@ -366,6 +418,7 @@
   {
     "code": "CW",
     "name": "Curaçao",
+    "name_ja": "キュラソー",
     "capital": "Willemstad",
     "continent": "South America",
     "file": "cw.png"
@@ -373,6 +426,7 @@
   {
     "code": "CX",
     "name": "Christmas Island",
+    "name_ja": "クリスマス島",
     "capital": "Flying Fish Cove",
     "continent": "Asia",
     "file": "cx.png"
@@ -380,6 +434,7 @@
   {
     "code": "CY",
     "name": "Cyprus",
+    "name_ja": "キプロス",
     "capital": "Nicosia",
     "continent": "Europe",
     "file": "cy.png"
@@ -387,6 +442,7 @@
   {
     "code": "CZ",
     "name": "Czech Republic",
+    "name_ja": "チェコ",
     "capital": "Prague",
     "continent": "Europe",
     "file": "cz.png"
@@ -394,6 +450,7 @@
   {
     "code": "DE",
     "name": "Germany",
+    "name_ja": "ドイツ",
     "capital": "Berlin",
     "continent": "Europe",
     "file": "de.png"
@@ -401,6 +458,7 @@
   {
     "code": "DJ",
     "name": "Djibouti",
+    "name_ja": "ジブチ",
     "capital": "Djibouti",
     "continent": "Africa",
     "file": "dj.png"
@@ -408,6 +466,7 @@
   {
     "code": "DK",
     "name": "Denmark",
+    "name_ja": "デンマーク",
     "capital": "Copenhagen",
     "continent": "Europe",
     "file": "dk.png"
@@ -415,6 +474,7 @@
   {
     "code": "DM",
     "name": "Dominica",
+    "name_ja": "ドミニカ国",
     "capital": "Roseau",
     "continent": "North America",
     "file": "dm.png"
@@ -422,6 +482,7 @@
   {
     "code": "DO",
     "name": "Dominican Republic",
+    "name_ja": "ドミニカ共和国",
     "capital": "Santo Domingo",
     "continent": "North America",
     "file": "do.png"
@@ -429,6 +490,7 @@
   {
     "code": "DZ",
     "name": "Algeria",
+    "name_ja": "アルジェリア",
     "capital": "Algiers",
     "continent": "Africa",
     "file": "dz.png"
@@ -436,6 +498,7 @@
   {
     "code": "EC",
     "name": "Ecuador",
+    "name_ja": "エクアドル",
     "capital": "Quito",
     "continent": "South America",
     "file": "ec.png"
@@ -443,6 +506,7 @@
   {
     "code": "EE",
     "name": "Estonia",
+    "name_ja": "エストニア",
     "capital": "Tallinn",
     "continent": "Europe",
     "file": "ee.png"
@@ -450,6 +514,7 @@
   {
     "code": "EG",
     "name": "Egypt",
+    "name_ja": "エジプト",
     "capital": "Cairo",
     "continent": "Africa",
     "file": "eg.png"
@@ -457,6 +522,7 @@
   {
     "code": "EH",
     "name": "Western Sahara",
+    "name_ja": "西サハラ",
     "capital": "Laayoune",
     "continent": "Africa",
     "file": "eh.png"
@@ -464,6 +530,7 @@
   {
     "code": "ER",
     "name": "Eritrea",
+    "name_ja": "エリトリア",
     "capital": "Asmara",
     "continent": "Africa",
     "file": "er.png"
@@ -471,6 +538,7 @@
   {
     "code": "ES",
     "name": "Spain",
+    "name_ja": "スペイン",
     "capital": "Madrid",
     "continent": "Europe",
     "file": "es.png"
@@ -478,6 +546,7 @@
   {
     "code": "ET",
     "name": "Ethiopia",
+    "name_ja": "エチオピア",
     "capital": "Addis Ababa",
     "continent": "Africa",
     "file": "et.png"
@@ -485,6 +554,7 @@
   {
     "code": "FI",
     "name": "Finland",
+    "name_ja": "フィンランド",
     "capital": "Helsinki",
     "continent": "Europe",
     "file": "fi.png"
@@ -492,6 +562,7 @@
   {
     "code": "FJ",
     "name": "Fiji",
+    "name_ja": "フィジー",
     "capital": "Suva",
     "continent": "Oceania",
     "file": "fj.png"
@@ -499,6 +570,7 @@
   {
     "code": "FK",
     "name": "Falkland Islands",
+    "name_ja": "フォークランド諸島",
     "capital": "Stanley",
     "continent": "South America",
     "file": "fk.png"
@@ -506,6 +578,7 @@
   {
     "code": "FM",
     "name": "Federated States of Micronesia",
+    "name_ja": "ミクロネシア連邦",
     "capital": "Palikir",
     "continent": "Oceania",
     "file": "fm.png"
@@ -513,6 +586,7 @@
   {
     "code": "FO",
     "name": "Faroe Islands",
+    "name_ja": "フェロー諸島",
     "capital": "Tórshavn",
     "continent": "Europe",
     "file": "fo.png"
@@ -520,6 +594,7 @@
   {
     "code": "FR",
     "name": "France",
+    "name_ja": "フランス",
     "capital": "Paris",
     "continent": "Europe",
     "file": "fr.png"
@@ -527,6 +602,7 @@
   {
     "code": "GA",
     "name": "Gabon",
+    "name_ja": "ガボン",
     "capital": "Libreville",
     "continent": "Africa",
     "file": "ga.png"
@@ -534,6 +610,7 @@
   {
     "code": "GB",
     "name": "United Kingdom",
+    "name_ja": "イギリス",
     "capital": "London",
     "continent": "Europe",
     "file": "gb.png"
@@ -541,6 +618,7 @@
   {
     "code": "GD",
     "name": "Grenada",
+    "name_ja": "グレナダ",
     "capital": "St. George's",
     "continent": "North America",
     "file": "gd.png"
@@ -548,6 +626,7 @@
   {
     "code": "GE",
     "name": "Georgia",
+    "name_ja": "ジョージア",
     "capital": "Tbilisi",
     "continent": "Asia",
     "file": "ge.png"
@@ -555,6 +634,7 @@
   {
     "code": "GF",
     "name": "French Guiana",
+    "name_ja": "仏領ギアナ",
     "capital": "Cayenne",
     "continent": "South America",
     "file": "gf.png"
@@ -562,6 +642,7 @@
   {
     "code": "GG",
     "name": "Guernsey",
+    "name_ja": "ガーンジー",
     "capital": "Saint Peter Port",
     "continent": "Europe",
     "file": "gg.png"
@@ -569,6 +650,7 @@
   {
     "code": "GH",
     "name": "Ghana",
+    "name_ja": "ガーナ",
     "capital": "Accra",
     "continent": "Africa",
     "file": "gh.png"
@@ -576,6 +658,7 @@
   {
     "code": "GI",
     "name": "Gibraltar",
+    "name_ja": "ジブラルタル",
     "capital": "Gibraltar",
     "continent": "Europe",
     "file": "gi.png"
@@ -583,6 +666,7 @@
   {
     "code": "GL",
     "name": "Greenland",
+    "name_ja": "グリーンランド",
     "capital": "Nuuk",
     "continent": "North America",
     "file": "gl.png"
@@ -590,6 +674,7 @@
   {
     "code": "GM",
     "name": "Gambia",
+    "name_ja": "ガンビア",
     "capital": "Banjul",
     "continent": "Africa",
     "file": "gm.png"
@@ -597,6 +682,7 @@
   {
     "code": "GN",
     "name": "Guinea",
+    "name_ja": "ギニア",
     "capital": "Conakry",
     "continent": "Africa",
     "file": "gn.png"
@@ -604,6 +690,7 @@
   {
     "code": "GP",
     "name": "Guadeloupe",
+    "name_ja": "グアドループ",
     "capital": "Basse-Terre",
     "continent": "North America",
     "file": "gp.png"
@@ -611,6 +698,7 @@
   {
     "code": "GQ",
     "name": "Equatorial Guinea",
+    "name_ja": "赤道ギニア",
     "capital": "Malabo",
     "continent": "Africa",
     "file": "gq.png"
@@ -618,6 +706,7 @@
   {
     "code": "GR",
     "name": "Greece",
+    "name_ja": "ギリシャ",
     "capital": "Athens",
     "continent": "Europe",
     "file": "gr.png"
@@ -625,6 +714,7 @@
   {
     "code": "GS",
     "name": "South Georgia and the South Sandwich Islands",
+    "name_ja": "サウスジョージア・サウスサンドウィッチ諸島",
     "capital": "King Edward Point",
     "continent": "Antarctica",
     "file": "gs.png"
@@ -632,6 +722,7 @@
   {
     "code": "GT",
     "name": "Guatemala",
+    "name_ja": "グアテマラ",
     "capital": "Guatemala City",
     "continent": "North America",
     "file": "gt.png"
@@ -639,6 +730,7 @@
   {
     "code": "GU",
     "name": "Guam",
+    "name_ja": "グアム",
     "capital": "Hagåtña",
     "continent": "Oceania",
     "file": "gu.png"
@@ -646,6 +738,7 @@
   {
     "code": "GW",
     "name": "Guinea-Bissau",
+    "name_ja": "ギニアビサウ",
     "capital": "Bissau",
     "continent": "Africa",
     "file": "gw.png"
@@ -653,6 +746,7 @@
   {
     "code": "GY",
     "name": "Guyana",
+    "name_ja": "ガイアナ",
     "capital": "Georgetown",
     "continent": "South America",
     "file": "gy.png"
@@ -660,6 +754,7 @@
   {
     "code": "HK",
     "name": "Hong Kong",
+    "name_ja": "中華人民共和国香港特別行政区",
     "capital": "Hong Kong",
     "continent": "Asia",
     "file": "hk.png"
@@ -667,6 +762,7 @@
   {
     "code": "HM",
     "name": "Heard Island and McDonald Islands",
+    "name_ja": "ハード島・マクドナルド諸島",
     "capital": "",
     "continent": "",
     "file": "hm.png"
@@ -674,6 +770,7 @@
   {
     "code": "HN",
     "name": "Honduras",
+    "name_ja": "ホンジュラス",
     "capital": "Tegucigalpa",
     "continent": "North America",
     "file": "hn.png"
@@ -681,6 +778,7 @@
   {
     "code": "HR",
     "name": "Croatia",
+    "name_ja": "クロアチア",
     "capital": "Zagreb",
     "continent": "Europe",
     "file": "hr.png"
@@ -688,6 +786,7 @@
   {
     "code": "HT",
     "name": "Haiti",
+    "name_ja": "ハイチ",
     "capital": "Port-au-Prince",
     "continent": "North America",
     "file": "ht.png"
@@ -695,6 +794,7 @@
   {
     "code": "HU",
     "name": "Hungary",
+    "name_ja": "ハンガリー",
     "capital": "Budapest",
     "continent": "Europe",
     "file": "hu.png"
@@ -702,6 +802,7 @@
   {
     "code": "ID",
     "name": "Indonesia",
+    "name_ja": "インドネシア",
     "capital": "Jakarta",
     "continent": "Asia",
     "file": "id.png"
@@ -709,6 +810,7 @@
   {
     "code": "IE",
     "name": "Ireland",
+    "name_ja": "アイルランド",
     "capital": "Dublin",
     "continent": "Europe",
     "file": "ie.png"
@@ -716,6 +818,7 @@
   {
     "code": "IL",
     "name": "Israel",
+    "name_ja": "イスラエル",
     "capital": "Jerusalem",
     "continent": "Asia",
     "file": "il.png"
@@ -723,6 +826,7 @@
   {
     "code": "IM",
     "name": "Isle of Man",
+    "name_ja": "マン島",
     "capital": "Douglas",
     "continent": "Europe",
     "file": "im.png"
@@ -730,6 +834,7 @@
   {
     "code": "IN",
     "name": "India",
+    "name_ja": "インド",
     "capital": "New Delhi",
     "continent": "Asia",
     "file": "in.png"
@@ -737,6 +842,7 @@
   {
     "code": "IO",
     "name": "British Indian Ocean Territory",
+    "name_ja": "英領インド洋地域",
     "capital": "Diego Garcia",
     "continent": "Asia",
     "file": "io.png"
@@ -744,6 +850,7 @@
   {
     "code": "IQ",
     "name": "Iraq",
+    "name_ja": "イラク",
     "capital": "Baghdad",
     "continent": "Asia",
     "file": "iq.png"
@@ -751,6 +858,7 @@
   {
     "code": "IR",
     "name": "Iran",
+    "name_ja": "イラン",
     "capital": "Tehran",
     "continent": "Asia",
     "file": "ir.png"
@@ -758,6 +866,7 @@
   {
     "code": "IS",
     "name": "Iceland",
+    "name_ja": "アイスランド",
     "capital": "Reykjavik",
     "continent": "Europe",
     "file": "is.png"
@@ -765,6 +874,7 @@
   {
     "code": "IT",
     "name": "Italy",
+    "name_ja": "イタリア",
     "capital": "Rome",
     "continent": "Europe",
     "file": "it.png"
@@ -772,6 +882,7 @@
   {
     "code": "JE",
     "name": "Jersey",
+    "name_ja": "ジャージー",
     "capital": "Saint Helier",
     "continent": "Europe",
     "file": "je.png"
@@ -779,6 +890,7 @@
   {
     "code": "JM",
     "name": "Jamaica",
+    "name_ja": "ジャマイカ",
     "capital": "Kingston",
     "continent": "North America",
     "file": "jm.png"
@@ -786,6 +898,7 @@
   {
     "code": "JO",
     "name": "Jordan",
+    "name_ja": "ヨルダン",
     "capital": "Amman",
     "continent": "Asia",
     "file": "jo.png"
@@ -793,6 +906,7 @@
   {
     "code": "JP",
     "name": "Japan",
+    "name_ja": "日本",
     "capital": "Tokyo",
     "continent": "Asia",
     "file": "jp.png"
@@ -800,6 +914,7 @@
   {
     "code": "KE",
     "name": "Kenya",
+    "name_ja": "ケニア",
     "capital": "Nairobi",
     "continent": "Africa",
     "file": "ke.png"
@@ -807,6 +922,7 @@
   {
     "code": "KG",
     "name": "Kyrgyzstan",
+    "name_ja": "キルギス",
     "capital": "Bishkek",
     "continent": "Asia",
     "file": "kg.png"
@@ -814,6 +930,7 @@
   {
     "code": "KH",
     "name": "Cambodia",
+    "name_ja": "カンボジア",
     "capital": "Phnom Penh",
     "continent": "Asia",
     "file": "kh.png"
@@ -821,6 +938,7 @@
   {
     "code": "KI",
     "name": "Kiribati",
+    "name_ja": "キリバス",
     "capital": "South Tarawa",
     "continent": "Oceania",
     "file": "ki.png"
@@ -828,6 +946,7 @@
   {
     "code": "KM",
     "name": "Comoros",
+    "name_ja": "コモロ",
     "capital": "Moroni",
     "continent": "Africa",
     "file": "km.png"
@@ -835,6 +954,7 @@
   {
     "code": "KN",
     "name": "Saint Kitts and Nevis",
+    "name_ja": "セントクリストファー・ネーヴィス",
     "capital": "Basseterre",
     "continent": "North America",
     "file": "kn.png"
@@ -842,6 +962,7 @@
   {
     "code": "KP",
     "name": "North Korea",
+    "name_ja": "北朝鮮",
     "capital": "Pyongyang",
     "continent": "Asia",
     "file": "kp.png"
@@ -849,6 +970,7 @@
   {
     "code": "KR",
     "name": "South Korea",
+    "name_ja": "韓国",
     "capital": "Seoul",
     "continent": "Asia",
     "file": "kr.png"
@@ -856,6 +978,7 @@
   {
     "code": "KW",
     "name": "Kuwait",
+    "name_ja": "クウェート",
     "capital": "Kuwait City",
     "continent": "Asia",
     "file": "kw.png"
@@ -863,6 +986,7 @@
   {
     "code": "KY",
     "name": "Cayman Islands",
+    "name_ja": "ケイマン諸島",
     "capital": "George Town",
     "continent": "North America",
     "file": "ky.png"
@@ -870,6 +994,7 @@
   {
     "code": "KZ",
     "name": "Kazakhstan",
+    "name_ja": "カザフスタン",
     "capital": "Astana",
     "continent": "Asia",
     "file": "kz.png"
@@ -877,6 +1002,7 @@
   {
     "code": "LA",
     "name": "Laos",
+    "name_ja": "ラオス",
     "capital": "Vientiane",
     "continent": "Asia",
     "file": "la.png"
@@ -884,6 +1010,7 @@
   {
     "code": "LB",
     "name": "Lebanon",
+    "name_ja": "レバノン",
     "capital": "Beirut",
     "continent": "Asia",
     "file": "lb.png"
@@ -891,6 +1018,7 @@
   {
     "code": "LC",
     "name": "Saint Lucia",
+    "name_ja": "セントルシア",
     "capital": "Castries",
     "continent": "North America",
     "file": "lc.png"
@@ -898,6 +1026,7 @@
   {
     "code": "LI",
     "name": "Liechtenstein",
+    "name_ja": "リヒテンシュタイン",
     "capital": "Vaduz",
     "continent": "Europe",
     "file": "li.png"
@@ -905,6 +1034,7 @@
   {
     "code": "LK",
     "name": "Sri Lanka",
+    "name_ja": "スリランカ",
     "capital": "Sri Jayawardenepura Kotte, Colombo",
     "continent": "Asia",
     "file": "lk.png"
@@ -912,6 +1042,7 @@
   {
     "code": "LR",
     "name": "Liberia",
+    "name_ja": "リベリア",
     "capital": "Monrovia",
     "continent": "Africa",
     "file": "lr.png"
@@ -919,6 +1050,7 @@
   {
     "code": "LS",
     "name": "Lesotho",
+    "name_ja": "レソト",
     "capital": "Maseru",
     "continent": "Africa",
     "file": "ls.png"
@@ -926,6 +1058,7 @@
   {
     "code": "LT",
     "name": "Lithuania",
+    "name_ja": "リトアニア",
     "capital": "Vilnius",
     "continent": "Europe",
     "file": "lt.png"
@@ -933,6 +1066,7 @@
   {
     "code": "LU",
     "name": "Luxembourg",
+    "name_ja": "ルクセンブルク",
     "capital": "Luxembourg City",
     "continent": "Europe",
     "file": "lu.png"
@@ -940,6 +1074,7 @@
   {
     "code": "LV",
     "name": "Latvia",
+    "name_ja": "ラトビア",
     "capital": "Riga",
     "continent": "Europe",
     "file": "lv.png"
@@ -947,6 +1082,7 @@
   {
     "code": "LY",
     "name": "Libya",
+    "name_ja": "リビア",
     "capital": "Tripoli",
     "continent": "Africa",
     "file": "ly.png"
@@ -954,6 +1090,7 @@
   {
     "code": "MA",
     "name": "Morocco",
+    "name_ja": "モロッコ",
     "capital": "Rabat",
     "continent": "Africa",
     "file": "ma.png"
@@ -961,6 +1098,7 @@
   {
     "code": "MC",
     "name": "Monaco",
+    "name_ja": "モナコ",
     "capital": "Monaco",
     "continent": "Europe",
     "file": "mc.png"
@@ -968,6 +1106,7 @@
   {
     "code": "MD",
     "name": "Moldova",
+    "name_ja": "モルドバ",
     "capital": "Chișinău",
     "continent": "Europe",
     "file": "md.png"
@@ -975,6 +1114,7 @@
   {
     "code": "ME",
     "name": "Montenegro",
+    "name_ja": "モンテネグロ",
     "capital": "Podgorica",
     "continent": "Europe",
     "file": "me.png"
@@ -982,6 +1122,7 @@
   {
     "code": "MF",
     "name": "Saint Martin",
+    "name_ja": "サン・マルタン",
     "capital": "Marigot",
     "continent": "North America",
     "file": "mf.png"
@@ -989,6 +1130,7 @@
   {
     "code": "MG",
     "name": "Madagascar",
+    "name_ja": "マダガスカル",
     "capital": "Antananarivo",
     "continent": "Africa",
     "file": "mg.png"
@@ -996,6 +1138,7 @@
   {
     "code": "MH",
     "name": "Marshall Islands",
+    "name_ja": "マーシャル諸島",
     "capital": "Majuro",
     "continent": "Oceania",
     "file": "mh.png"
@@ -1003,6 +1146,7 @@
   {
     "code": "MK",
     "name": "North Macedonia",
+    "name_ja": "北マケドニア",
     "capital": "Skopje",
     "continent": "Europe",
     "file": "mk.png"
@@ -1010,6 +1154,7 @@
   {
     "code": "ML",
     "name": "Mali",
+    "name_ja": "マリ",
     "capital": "Bamako",
     "continent": "Africa",
     "file": "ml.png"
@@ -1017,6 +1162,7 @@
   {
     "code": "MM",
     "name": "Myanmar",
+    "name_ja": "ミャンマー (ビルマ)",
     "capital": "Naypyidaw",
     "continent": "Asia",
     "file": "mm.png"
@@ -1024,6 +1170,7 @@
   {
     "code": "MN",
     "name": "Mongolia",
+    "name_ja": "モンゴル",
     "capital": "Ulaanbaatar",
     "continent": "Asia",
     "file": "mn.png"
@@ -1031,6 +1178,7 @@
   {
     "code": "MO",
     "name": "Macau",
+    "name_ja": "中華人民共和国マカオ特別行政区",
     "capital": "Macau",
     "continent": "Asia",
     "file": "mo.png"
@@ -1038,6 +1186,7 @@
   {
     "code": "MP",
     "name": "Northern Mariana Islands",
+    "name_ja": "北マリアナ諸島",
     "capital": "Saipan",
     "continent": "Oceania",
     "file": "mp.png"
@@ -1045,6 +1194,7 @@
   {
     "code": "MQ",
     "name": "Martinique",
+    "name_ja": "マルティニーク",
     "capital": "Fort-de-France",
     "continent": "North America",
     "file": "mq.png"
@@ -1052,6 +1202,7 @@
   {
     "code": "MR",
     "name": "Mauritania",
+    "name_ja": "モーリタニア",
     "capital": "Nouakchott",
     "continent": "Africa",
     "file": "mr.png"
@@ -1059,6 +1210,7 @@
   {
     "code": "MS",
     "name": "Montserrat",
+    "name_ja": "モントセラト",
     "capital": "Little Bay, Brades, Plymouth",
     "continent": "North America",
     "file": "ms.png"
@@ -1066,6 +1218,7 @@
   {
     "code": "MT",
     "name": "Malta",
+    "name_ja": "マルタ",
     "capital": "Valletta",
     "continent": "Europe",
     "file": "mt.png"
@@ -1073,6 +1226,7 @@
   {
     "code": "MU",
     "name": "Mauritius",
+    "name_ja": "モーリシャス",
     "capital": "Port Louis",
     "continent": "Africa",
     "file": "mu.png"
@@ -1080,6 +1234,7 @@
   {
     "code": "MV",
     "name": "Maldives",
+    "name_ja": "モルディブ",
     "capital": "Malé",
     "continent": "Asia",
     "file": "mv.png"
@@ -1087,6 +1242,7 @@
   {
     "code": "MW",
     "name": "Malawi",
+    "name_ja": "マラウイ",
     "capital": "Lilongwe",
     "continent": "Africa",
     "file": "mw.png"
@@ -1094,6 +1250,7 @@
   {
     "code": "MX",
     "name": "Mexico",
+    "name_ja": "メキシコ",
     "capital": "Mexico City",
     "continent": "North America",
     "file": "mx.png"
@@ -1101,6 +1258,7 @@
   {
     "code": "MY",
     "name": "Malaysia",
+    "name_ja": "マレーシア",
     "capital": "Kuala Lumpur",
     "continent": "Asia",
     "file": "my.png"
@@ -1108,6 +1266,7 @@
   {
     "code": "MZ",
     "name": "Mozambique",
+    "name_ja": "モザンビーク",
     "capital": "Maputo",
     "continent": "Africa",
     "file": "mz.png"
@@ -1115,6 +1274,7 @@
   {
     "code": "NA",
     "name": "Namibia",
+    "name_ja": "ナミビア",
     "capital": "Windhoek",
     "continent": "Africa",
     "file": "na.png"
@@ -1122,6 +1282,7 @@
   {
     "code": "NC",
     "name": "New Caledonia",
+    "name_ja": "ニューカレドニア",
     "capital": "Nouméa",
     "continent": "Oceania",
     "file": "nc.png"
@@ -1129,6 +1290,7 @@
   {
     "code": "NE",
     "name": "Niger",
+    "name_ja": "ニジェール",
     "capital": "Niamey",
     "continent": "Africa",
     "file": "ne.png"
@@ -1136,6 +1298,7 @@
   {
     "code": "NF",
     "name": "Norfolk Island",
+    "name_ja": "ノーフォーク島",
     "capital": "Kingston",
     "continent": "Oceania",
     "file": "nf.png"
@@ -1143,6 +1306,7 @@
   {
     "code": "NG",
     "name": "Nigeria",
+    "name_ja": "ナイジェリア",
     "capital": "Abuja",
     "continent": "Africa",
     "file": "ng.png"
@@ -1150,6 +1314,7 @@
   {
     "code": "NI",
     "name": "Nicaragua",
+    "name_ja": "ニカラグア",
     "capital": "Managua",
     "continent": "North America",
     "file": "ni.png"
@@ -1157,6 +1322,7 @@
   {
     "code": "NL",
     "name": "Netherlands",
+    "name_ja": "オランダ",
     "capital": "Amsterdam",
     "continent": "Europe",
     "file": "nl.png"
@@ -1164,6 +1330,7 @@
   {
     "code": "NO",
     "name": "Norway",
+    "name_ja": "ノルウェー",
     "capital": "Oslo",
     "continent": "Europe",
     "file": "no.png"
@@ -1171,6 +1338,7 @@
   {
     "code": "NP",
     "name": "Nepal",
+    "name_ja": "ネパール",
     "capital": "Kathmandu",
     "continent": "Asia",
     "file": "np.png"
@@ -1178,6 +1346,7 @@
   {
     "code": "NR",
     "name": "Nauru",
+    "name_ja": "ナウル",
     "capital": "Yaren District",
     "continent": "Oceania",
     "file": "nr.png"
@@ -1185,6 +1354,7 @@
   {
     "code": "NU",
     "name": "Niue",
+    "name_ja": "ニウエ",
     "capital": "Alofi",
     "continent": "Oceania",
     "file": "nu.png"
@@ -1192,6 +1362,7 @@
   {
     "code": "NZ",
     "name": "New Zealand",
+    "name_ja": "ニュージーランド",
     "capital": "Wellington",
     "continent": "Oceania",
     "file": "nz.png"
@@ -1199,6 +1370,7 @@
   {
     "code": "OM",
     "name": "Oman",
+    "name_ja": "オマーン",
     "capital": "Muscat",
     "continent": "Asia",
     "file": "om.png"
@@ -1206,6 +1378,7 @@
   {
     "code": "PA",
     "name": "Panama",
+    "name_ja": "パナマ",
     "capital": "Panama City",
     "continent": "North America",
     "file": "pa.png"
@@ -1213,6 +1386,7 @@
   {
     "code": "PE",
     "name": "Peru",
+    "name_ja": "ペルー",
     "capital": "Lima",
     "continent": "South America",
     "file": "pe.png"
@@ -1220,6 +1394,7 @@
   {
     "code": "PF",
     "name": "French Polynesia",
+    "name_ja": "仏領ポリネシア",
     "capital": "Papeete",
     "continent": "Oceania",
     "file": "pf.png"
@@ -1227,6 +1402,7 @@
   {
     "code": "PG",
     "name": "Papua New Guinea",
+    "name_ja": "パプアニューギニア",
     "capital": "Port Moresby",
     "continent": "Oceania",
     "file": "pg.png"
@@ -1234,6 +1410,7 @@
   {
     "code": "PH",
     "name": "Philippines",
+    "name_ja": "フィリピン",
     "capital": "Manila",
     "continent": "Asia",
     "file": "ph.png"
@@ -1241,6 +1418,7 @@
   {
     "code": "PK",
     "name": "Pakistan",
+    "name_ja": "パキスタン",
     "capital": "Islamabad",
     "continent": "Asia",
     "file": "pk.png"
@@ -1248,6 +1426,7 @@
   {
     "code": "PL",
     "name": "Poland",
+    "name_ja": "ポーランド",
     "capital": "Warsaw",
     "continent": "Europe",
     "file": "pl.png"
@@ -1255,6 +1434,7 @@
   {
     "code": "PM",
     "name": "Saint Pierre and Miquelon",
+    "name_ja": "サンピエール島・ミクロン島",
     "capital": "Saint-Pierre",
     "continent": "North America",
     "file": "pm.png"
@@ -1262,6 +1442,7 @@
   {
     "code": "PN",
     "name": "Pitcairn",
+    "name_ja": "ピトケアン諸島",
     "capital": "Adamstown",
     "continent": "Oceania",
     "file": "pn.png"
@@ -1269,6 +1450,7 @@
   {
     "code": "PR",
     "name": "Puerto Rico",
+    "name_ja": "プエルトリコ",
     "capital": "San Juan",
     "continent": "North America",
     "file": "pr.png"
@@ -1276,6 +1458,7 @@
   {
     "code": "PS",
     "name": "State of Palestine",
+    "name_ja": "パレスチナ自治区",
     "capital": "Ramallah",
     "continent": "Asia",
     "file": "ps.png"
@@ -1283,6 +1466,7 @@
   {
     "code": "PT",
     "name": "Portugal",
+    "name_ja": "ポルトガル",
     "capital": "Lisbon",
     "continent": "Europe",
     "file": "pt.png"
@@ -1290,6 +1474,7 @@
   {
     "code": "PW",
     "name": "Palau",
+    "name_ja": "パラオ",
     "capital": "Ngerulmud",
     "continent": "Oceania",
     "file": "pw.png"
@@ -1297,6 +1482,7 @@
   {
     "code": "PY",
     "name": "Paraguay",
+    "name_ja": "パラグアイ",
     "capital": "Asunción",
     "continent": "South America",
     "file": "py.png"
@@ -1304,6 +1490,7 @@
   {
     "code": "QA",
     "name": "Qatar",
+    "name_ja": "カタール",
     "capital": "Doha",
     "continent": "Asia",
     "file": "qa.png"
@@ -1311,6 +1498,7 @@
   {
     "code": "RE",
     "name": "Réunion",
+    "name_ja": "レユニオン",
     "capital": "Saint-Denis",
     "continent": "Africa",
     "file": "re.png"
@@ -1318,6 +1506,7 @@
   {
     "code": "RO",
     "name": "Romania",
+    "name_ja": "ルーマニア",
     "capital": "Bucharest",
     "continent": "Europe",
     "file": "ro.png"
@@ -1325,6 +1514,7 @@
   {
     "code": "RS",
     "name": "Serbia",
+    "name_ja": "セルビア",
     "capital": "Belgrade",
     "continent": "Europe",
     "file": "rs.png"
@@ -1332,6 +1522,7 @@
   {
     "code": "RU",
     "name": "Russia",
+    "name_ja": "ロシア",
     "capital": "Moscow",
     "continent": "Europe",
     "file": "ru.png"
@@ -1339,6 +1530,7 @@
   {
     "code": "RW",
     "name": "Rwanda",
+    "name_ja": "ルワンダ",
     "capital": "Kigali",
     "continent": "Africa",
     "file": "rw.png"
@@ -1346,6 +1538,7 @@
   {
     "code": "SA",
     "name": "Saudi Arabia",
+    "name_ja": "サウジアラビア",
     "capital": "Riyadh",
     "continent": "Asia",
     "file": "sa.png"
@@ -1353,6 +1546,7 @@
   {
     "code": "SB",
     "name": "Solomon Islands",
+    "name_ja": "ソロモン諸島",
     "capital": "Honiara",
     "continent": "Oceania",
     "file": "sb.png"
@@ -1360,6 +1554,7 @@
   {
     "code": "SC",
     "name": "Seychelles",
+    "name_ja": "セーシェル",
     "capital": "Victoria",
     "continent": "Africa",
     "file": "sc.png"
@@ -1367,6 +1562,7 @@
   {
     "code": "SD",
     "name": "Sudan",
+    "name_ja": "スーダン",
     "capital": "Khartoum",
     "continent": "Africa",
     "file": "sd.png"
@@ -1374,6 +1570,7 @@
   {
     "code": "SE",
     "name": "Sweden",
+    "name_ja": "スウェーデン",
     "capital": "Stockholm",
     "continent": "Europe",
     "file": "se.png"
@@ -1381,6 +1578,7 @@
   {
     "code": "SG",
     "name": "Singapore",
+    "name_ja": "シンガポール",
     "capital": "Singapore",
     "continent": "Asia",
     "file": "sg.png"
@@ -1388,6 +1586,7 @@
   {
     "code": "SH",
     "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "name_ja": "セントヘレナ",
     "capital": "Jamestown",
     "continent": "Africa",
     "file": "sh.png"
@@ -1395,6 +1594,7 @@
   {
     "code": "SI",
     "name": "Slovenia",
+    "name_ja": "スロベニア",
     "capital": "Ljubljana",
     "continent": "Europe",
     "file": "si.png"
@@ -1402,6 +1602,7 @@
   {
     "code": "SJ",
     "name": "Svalbard and Jan Mayen",
+    "name_ja": "スバールバル諸島・ヤンマイエン島",
     "capital": "Longyearbyen",
     "continent": "Europe",
     "file": "sj.png"
@@ -1409,6 +1610,7 @@
   {
     "code": "SK",
     "name": "Slovakia",
+    "name_ja": "スロバキア",
     "capital": "Bratislava",
     "continent": "Europe",
     "file": "sk.png"
@@ -1416,6 +1618,7 @@
   {
     "code": "SL",
     "name": "Sierra Leone",
+    "name_ja": "シエラレオネ",
     "capital": "Freetown",
     "continent": "Africa",
     "file": "sl.png"
@@ -1423,6 +1626,7 @@
   {
     "code": "SM",
     "name": "San Marino",
+    "name_ja": "サンマリノ",
     "capital": "San Marino",
     "continent": "Europe",
     "file": "sm.png"
@@ -1430,6 +1634,7 @@
   {
     "code": "SN",
     "name": "Senegal",
+    "name_ja": "セネガル",
     "capital": "Dakar",
     "continent": "Africa",
     "file": "sn.png"
@@ -1437,6 +1642,7 @@
   {
     "code": "SO",
     "name": "Somalia",
+    "name_ja": "ソマリア",
     "capital": "Mogadishu",
     "continent": "Africa",
     "file": "so.png"
@@ -1444,6 +1650,7 @@
   {
     "code": "SR",
     "name": "Suriname",
+    "name_ja": "スリナム",
     "capital": "Paramaribo",
     "continent": "South America",
     "file": "sr.png"
@@ -1451,6 +1658,7 @@
   {
     "code": "SS",
     "name": "South Sudan",
+    "name_ja": "南スーダン",
     "capital": "Juba",
     "continent": "Africa",
     "file": "ss.png"
@@ -1458,6 +1666,7 @@
   {
     "code": "ST",
     "name": "Sao Tome and Principe",
+    "name_ja": "サントメ・プリンシペ",
     "capital": "São Tomé",
     "continent": "Africa",
     "file": "st.png"
@@ -1465,6 +1674,7 @@
   {
     "code": "SV",
     "name": "El Salvador",
+    "name_ja": "エルサルバドル",
     "capital": "San Salvador",
     "continent": "North America",
     "file": "sv.png"
@@ -1472,6 +1682,7 @@
   {
     "code": "SX",
     "name": "Sint Maarten",
+    "name_ja": "シント・マールテン",
     "capital": "Philipsburg",
     "continent": "North America",
     "file": "sx.png"
@@ -1479,6 +1690,7 @@
   {
     "code": "SY",
     "name": "Syria",
+    "name_ja": "シリア",
     "capital": "Damascus",
     "continent": "Asia",
     "file": "sy.png"
@@ -1486,6 +1698,7 @@
   {
     "code": "SZ",
     "name": "Eswatini",
+    "name_ja": "エスワティニ",
     "capital": "Lobamba, Mbabane",
     "continent": "Africa",
     "file": "sz.png"
@@ -1493,6 +1706,7 @@
   {
     "code": "TC",
     "name": "Turks and Caicos Islands",
+    "name_ja": "タークス・カイコス諸島",
     "capital": "Cockburn Town",
     "continent": "North America",
     "file": "tc.png"
@@ -1500,6 +1714,7 @@
   {
     "code": "TD",
     "name": "Chad",
+    "name_ja": "チャド",
     "capital": "N'Djamena",
     "continent": "Africa",
     "file": "td.png"
@@ -1507,6 +1722,7 @@
   {
     "code": "TF",
     "name": "French Southern Territories",
+    "name_ja": "仏領極南諸島",
     "capital": "Saint-Pierre, Réunion",
     "continent": "Africa",
     "file": "tf.png"
@@ -1514,6 +1730,7 @@
   {
     "code": "TG",
     "name": "Togo",
+    "name_ja": "トーゴ",
     "capital": "Lomé",
     "continent": "Africa",
     "file": "tg.png"
@@ -1521,6 +1738,7 @@
   {
     "code": "TH",
     "name": "Thailand",
+    "name_ja": "タイ",
     "capital": "Bangkok",
     "continent": "Asia",
     "file": "th.png"
@@ -1528,6 +1746,7 @@
   {
     "code": "TJ",
     "name": "Tajikistan",
+    "name_ja": "タジキスタン",
     "capital": "Dushanbe",
     "continent": "Asia",
     "file": "tj.png"
@@ -1535,6 +1754,7 @@
   {
     "code": "TK",
     "name": "Tokelau",
+    "name_ja": "トケラウ",
     "capital": "Nukunonu, Atafu,Tokelau",
     "continent": "Oceania",
     "file": "tk.png"
@@ -1542,6 +1762,7 @@
   {
     "code": "TL",
     "name": "Timor-Leste",
+    "name_ja": "東ティモール",
     "capital": "Dili",
     "continent": "Asia",
     "file": "tl.png"
@@ -1549,6 +1770,7 @@
   {
     "code": "TM",
     "name": "Turkmenistan",
+    "name_ja": "トルクメニスタン",
     "capital": "Ashgabat",
     "continent": "Asia",
     "file": "tm.png"
@@ -1556,6 +1778,7 @@
   {
     "code": "TN",
     "name": "Tunisia",
+    "name_ja": "チュニジア",
     "capital": "Tunis",
     "continent": "Africa",
     "file": "tn.png"
@@ -1563,6 +1786,7 @@
   {
     "code": "TO",
     "name": "Tonga",
+    "name_ja": "トンガ",
     "capital": "Nukuʻalofa",
     "continent": "Oceania",
     "file": "to.png"
@@ -1570,6 +1794,7 @@
   {
     "code": "TR",
     "name": "Türkiye",
+    "name_ja": "トルコ",
     "capital": "Ankara",
     "continent": "Asia",
     "file": "tr.png"
@@ -1577,6 +1802,7 @@
   {
     "code": "TT",
     "name": "Trinidad and Tobago",
+    "name_ja": "トリニダード・トバゴ",
     "capital": "Port of Spain",
     "continent": "South America",
     "file": "tt.png"
@@ -1584,6 +1810,7 @@
   {
     "code": "TV",
     "name": "Tuvalu",
+    "name_ja": "ツバル",
     "capital": "Funafuti",
     "continent": "Oceania",
     "file": "tv.png"
@@ -1591,6 +1818,7 @@
   {
     "code": "TW",
     "name": "Taiwan",
+    "name_ja": "台湾",
     "capital": "Taipei",
     "continent": "Asia",
     "file": "tw.png"
@@ -1598,6 +1826,7 @@
   {
     "code": "TZ",
     "name": "Tanzania",
+    "name_ja": "タンザニア",
     "capital": "Dodoma",
     "continent": "Africa",
     "file": "tz.png"
@@ -1605,6 +1834,7 @@
   {
     "code": "UA",
     "name": "Ukraine",
+    "name_ja": "ウクライナ",
     "capital": "Kiev",
     "continent": "Europe",
     "file": "ua.png"
@@ -1612,6 +1842,7 @@
   {
     "code": "UG",
     "name": "Uganda",
+    "name_ja": "ウガンダ",
     "capital": "Kampala",
     "continent": "Africa",
     "file": "ug.png"
@@ -1619,6 +1850,7 @@
   {
     "code": "UM",
     "name": "United States Minor Outlying Islands",
+    "name_ja": "合衆国領有小離島",
     "capital": "Washington, D.C.",
     "continent": "North America",
     "file": "um.png"
@@ -1626,6 +1858,7 @@
   {
     "code": "US",
     "name": "United States of America",
+    "name_ja": "アメリカ合衆国",
     "capital": "Washington, D.C.",
     "continent": "North America",
     "file": "us.png"
@@ -1633,6 +1866,7 @@
   {
     "code": "UY",
     "name": "Uruguay",
+    "name_ja": "ウルグアイ",
     "capital": "Montevideo",
     "continent": "South America",
     "file": "uy.png"
@@ -1640,6 +1874,7 @@
   {
     "code": "UZ",
     "name": "Uzbekistan",
+    "name_ja": "ウズベキスタン",
     "capital": "Tashkent",
     "continent": "Asia",
     "file": "uz.png"
@@ -1647,6 +1882,7 @@
   {
     "code": "VA",
     "name": "Holy See",
+    "name_ja": "バチカン市国",
     "capital": "Vatican City",
     "continent": "Europe",
     "file": "va.png"
@@ -1654,6 +1890,7 @@
   {
     "code": "VC",
     "name": "Saint Vincent and the Grenadines",
+    "name_ja": "セントビンセント及びグレナディーン諸島",
     "capital": "Kingstown",
     "continent": "North America",
     "file": "vc.png"
@@ -1661,6 +1898,7 @@
   {
     "code": "VE",
     "name": "Venezuela",
+    "name_ja": "ベネズエラ",
     "capital": "Caracas",
     "continent": "South America",
     "file": "ve.png"
@@ -1668,6 +1906,7 @@
   {
     "code": "VG",
     "name": "Virgin Islands (British)",
+    "name_ja": "英領ヴァージン諸島",
     "capital": "Road Town",
     "continent": "North America",
     "file": "vg.png"
@@ -1675,6 +1914,7 @@
   {
     "code": "VI",
     "name": "Virgin Islands (U.S.)",
+    "name_ja": "米領ヴァージン諸島",
     "capital": "Charlotte Amalie",
     "continent": "North America",
     "file": "vi.png"
@@ -1682,6 +1922,7 @@
   {
     "code": "VN",
     "name": "Vietnam",
+    "name_ja": "ベトナム",
     "capital": "Hanoi",
     "continent": "Asia",
     "file": "vn.png"
@@ -1689,6 +1930,7 @@
   {
     "code": "VU",
     "name": "Vanuatu",
+    "name_ja": "バヌアツ",
     "capital": "Port Vila",
     "continent": "Oceania",
     "file": "vu.png"
@@ -1696,6 +1938,7 @@
   {
     "code": "WF",
     "name": "Wallis and Futuna",
+    "name_ja": "ウォリス・フツナ",
     "capital": "Mata-Utu",
     "continent": "Oceania",
     "file": "wf.png"
@@ -1703,6 +1946,7 @@
   {
     "code": "WS",
     "name": "Samoa",
+    "name_ja": "サモア",
     "capital": "Apia",
     "continent": "Oceania",
     "file": "ws.png"
@@ -1710,6 +1954,7 @@
   {
     "code": "YE",
     "name": "Yemen",
+    "name_ja": "イエメン",
     "capital": "Sana'a",
     "continent": "Asia",
     "file": "ye.png"
@@ -1717,6 +1962,7 @@
   {
     "code": "YT",
     "name": "Mayotte",
+    "name_ja": "マヨット",
     "capital": "Mamoudzou",
     "continent": "Africa",
     "file": "yt.png"
@@ -1724,6 +1970,7 @@
   {
     "code": "ZA",
     "name": "South Africa",
+    "name_ja": "南アフリカ",
     "capital": "Pretoria",
     "continent": "Africa",
     "file": "za.png"
@@ -1731,6 +1978,7 @@
   {
     "code": "ZM",
     "name": "Zambia",
+    "name_ja": "ザンビア",
     "capital": "Lusaka",
     "continent": "Africa",
     "file": "zm.png"
@@ -1738,6 +1986,7 @@
   {
     "code": "ZW",
     "name": "Zimbabwe",
+    "name_ja": "ジンバブエ",
     "capital": "Harare",
     "continent": "Africa",
     "file": "zw.png"
