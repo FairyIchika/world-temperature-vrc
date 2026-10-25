@@ -1,0 +1,1745 @@
+[
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "continent": "Europe",
+    "file": "ad.png"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "file": "ae.png"
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "file": "af.png"
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "continent": "North America",
+    "file": "ag.png"
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "continent": "North America",
+    "file": "ai.png"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "file": "al.png"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "file": "am.png"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "file": "ao.png"
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "capital": "",
+    "continent": "",
+    "file": "aq.png"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "file": "ar.png"
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "continent": "Oceania",
+    "file": "as.png"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "file": "at.png"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "file": "au.png"
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "continent": "South America",
+    "file": "aw.png"
+  },
+  {
+    "code": "AX",
+    "name": "Aland Islands",
+    "capital": "Mariehamn",
+    "continent": "Europe",
+    "file": "ax.png"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "continent": "Asia",
+    "file": "az.png"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "file": "ba.png"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "continent": "North America",
+    "file": "bb.png"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "file": "bd.png"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "file": "be.png"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "file": "bf.png"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "file": "bg.png"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "capital": "Manama",
+    "continent": "Asia",
+    "file": "bh.png"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "capital": "Bujumbura",
+    "continent": "Africa",
+    "file": "bi.png"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "continent": "Africa",
+    "file": "bj.png"
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "capital": "Gustavia",
+    "continent": "North America",
+    "file": "bl.png"
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "continent": "North America",
+    "file": "bm.png"
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "file": "bn.png"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "continent": "South America",
+    "file": "bo.png"
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "capital": "Kralendijk",
+    "continent": "South America",
+    "file": "bq.png"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "continent": "South America",
+    "file": "br.png"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "continent": "North America",
+    "file": "bs.png"
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "file": "bt.png"
+  },
+  {
+    "code": "BV",
+    "name": "Bouvet Island",
+    "capital": "",
+    "continent": "",
+    "file": "bv.png"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "file": "bw.png"
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "capital": "Minsk",
+    "continent": "Europe",
+    "file": "by.png"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "capital": "Belmopan",
+    "continent": "North America",
+    "file": "bz.png"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "file": "ca.png"
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "continent": "Asia",
+    "file": "cc.png"
+  },
+  {
+    "code": "CD",
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "file": "cd.png"
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "file": "cf.png"
+  },
+  {
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "file": "cg.png"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "continent": "Europe",
+    "file": "ch.png"
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "continent": "Africa",
+    "file": "ci.png"
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "capital": "Avarua",
+    "continent": "Oceania",
+    "file": "ck.png"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "capital": "Santiago",
+    "continent": "South America",
+    "file": "cl.png"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "continent": "Africa",
+    "file": "cm.png"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "file": "cn.png"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "file": "co.png"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "continent": "North America",
+    "file": "cr.png"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "capital": "Havana",
+    "continent": "North America",
+    "file": "cu.png"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "continent": "Africa",
+    "file": "cv.png"
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "continent": "South America",
+    "file": "cw.png"
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "continent": "Asia",
+    "file": "cx.png"
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "file": "cy.png"
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "continent": "Europe",
+    "file": "cz.png"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "file": "de.png"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "file": "dj.png"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "file": "dk.png"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "capital": "Roseau",
+    "continent": "North America",
+    "file": "dm.png"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "continent": "North America",
+    "file": "do.png"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "file": "dz.png"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "continent": "South America",
+    "file": "ec.png"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "file": "ee.png"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "file": "eg.png"
+  },
+  {
+    "code": "EH",
+    "name": "Western Sahara",
+    "capital": "Laayoune",
+    "continent": "Africa",
+    "file": "eh.png"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "file": "er.png"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "file": "es.png"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "file": "et.png"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "file": "fi.png"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "file": "fj.png"
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands",
+    "capital": "Stanley",
+    "continent": "South America",
+    "file": "fk.png"
+  },
+  {
+    "code": "FM",
+    "name": "Federated States of Micronesia",
+    "capital": "Palikir",
+    "continent": "Oceania",
+    "file": "fm.png"
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "capital": "Tórshavn",
+    "continent": "Europe",
+    "file": "fo.png"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "capital": "Paris",
+    "continent": "Europe",
+    "file": "fr.png"
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "file": "ga.png"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "capital": "London",
+    "continent": "Europe",
+    "file": "gb.png"
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "capital": "St. George's",
+    "continent": "North America",
+    "file": "gd.png"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "continent": "Asia",
+    "file": "ge.png"
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "continent": "South America",
+    "file": "gf.png"
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "capital": "Saint Peter Port",
+    "continent": "Europe",
+    "file": "gg.png"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "capital": "Accra",
+    "continent": "Africa",
+    "file": "gh.png"
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "continent": "Europe",
+    "file": "gi.png"
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "continent": "North America",
+    "file": "gl.png"
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "file": "gm.png"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "file": "gn.png"
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "continent": "North America",
+    "file": "gp.png"
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "continent": "Africa",
+    "file": "gq.png"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "capital": "Athens",
+    "continent": "Europe",
+    "file": "gr.png"
+  },
+  {
+    "code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "capital": "King Edward Point",
+    "continent": "Antarctica",
+    "file": "gs.png"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "continent": "North America",
+    "file": "gt.png"
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "capital": "Hagåtña",
+    "continent": "Oceania",
+    "file": "gu.png"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "continent": "Africa",
+    "file": "gw.png"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "file": "gy.png"
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "capital": "Hong Kong",
+    "continent": "Asia",
+    "file": "hk.png"
+  },
+  {
+    "code": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "capital": "",
+    "continent": "",
+    "file": "hm.png"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "continent": "North America",
+    "file": "hn.png"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "file": "hr.png"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "continent": "North America",
+    "file": "ht.png"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "file": "hu.png"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "file": "id.png"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "file": "ie.png"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "file": "il.png"
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "capital": "Douglas",
+    "continent": "Europe",
+    "file": "im.png"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "file": "in.png"
+  },
+  {
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "continent": "Asia",
+    "file": "io.png"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "file": "iq.png"
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "file": "ir.png"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "continent": "Europe",
+    "file": "is.png"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "capital": "Rome",
+    "continent": "Europe",
+    "file": "it.png"
+  },
+  {
+    "code": "JE",
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "continent": "Europe",
+    "file": "je.png"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "continent": "North America",
+    "file": "jm.png"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "capital": "Amman",
+    "continent": "Asia",
+    "file": "jo.png"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "file": "jp.png"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "file": "ke.png"
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "file": "kg.png"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "file": "kh.png"
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "continent": "Oceania",
+    "file": "ki.png"
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "continent": "Africa",
+    "file": "km.png"
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "continent": "North America",
+    "file": "kn.png"
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "continent": "Asia",
+    "file": "kp.png"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "file": "kr.png"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "file": "kw.png"
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "continent": "North America",
+    "file": "ky.png"
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "continent": "Asia",
+    "file": "kz.png"
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "file": "la.png"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "file": "lb.png"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "continent": "North America",
+    "file": "lc.png"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "continent": "Europe",
+    "file": "li.png"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte, Colombo",
+    "continent": "Asia",
+    "file": "lk.png"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "file": "lr.png"
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "file": "ls.png"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "file": "lt.png"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "capital": "Luxembourg City",
+    "continent": "Europe",
+    "file": "lu.png"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "capital": "Riga",
+    "continent": "Europe",
+    "file": "lv.png"
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "file": "ly.png"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "file": "ma.png"
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "capital": "Monaco",
+    "continent": "Europe",
+    "file": "mc.png"
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "continent": "Europe",
+    "file": "md.png"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "file": "me.png"
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin",
+    "capital": "Marigot",
+    "continent": "North America",
+    "file": "mf.png"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "file": "mg.png"
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "continent": "Oceania",
+    "file": "mh.png"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "file": "mk.png"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "file": "ml.png"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "continent": "Asia",
+    "file": "mm.png"
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "continent": "Asia",
+    "file": "mn.png"
+  },
+  {
+    "code": "MO",
+    "name": "Macau",
+    "capital": "Macau",
+    "continent": "Asia",
+    "file": "mo.png"
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "continent": "Oceania",
+    "file": "mp.png"
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "continent": "North America",
+    "file": "mq.png"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "continent": "Africa",
+    "file": "mr.png"
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "capital": "Little Bay, Brades, Plymouth",
+    "continent": "North America",
+    "file": "ms.png"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "file": "mt.png"
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "continent": "Africa",
+    "file": "mu.png"
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "capital": "Malé",
+    "continent": "Asia",
+    "file": "mv.png"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "file": "mw.png"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "file": "mx.png"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "file": "my.png"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "file": "mz.png"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "file": "na.png"
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "capital": "Nouméa",
+    "continent": "Oceania",
+    "file": "nc.png"
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "file": "ne.png"
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "capital": "Kingston",
+    "continent": "Oceania",
+    "file": "nf.png"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "file": "ng.png"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "continent": "North America",
+    "file": "ni.png"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "file": "nl.png"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "file": "no.png"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "file": "np.png"
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "capital": "Yaren District",
+    "continent": "Oceania",
+    "file": "nr.png"
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "capital": "Alofi",
+    "continent": "Oceania",
+    "file": "nu.png"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "file": "nz.png"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "file": "om.png"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "capital": "Panama City",
+    "continent": "North America",
+    "file": "pa.png"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "capital": "Lima",
+    "continent": "South America",
+    "file": "pe.png"
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "capital": "Papeete",
+    "continent": "Oceania",
+    "file": "pf.png"
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "file": "pg.png"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "capital": "Manila",
+    "continent": "Asia",
+    "file": "ph.png"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "file": "pk.png"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "file": "pl.png"
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "continent": "North America",
+    "file": "pm.png"
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairn",
+    "capital": "Adamstown",
+    "continent": "Oceania",
+    "file": "pn.png"
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "continent": "North America",
+    "file": "pr.png"
+  },
+  {
+    "code": "PS",
+    "name": "State of Palestine",
+    "capital": "Ramallah",
+    "continent": "Asia",
+    "file": "ps.png"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "file": "pt.png"
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "continent": "Oceania",
+    "file": "pw.png"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "continent": "South America",
+    "file": "py.png"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "capital": "Doha",
+    "continent": "Asia",
+    "file": "qa.png"
+  },
+  {
+    "code": "RE",
+    "name": "Réunion",
+    "capital": "Saint-Denis",
+    "continent": "Africa",
+    "file": "re.png"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "file": "ro.png"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "file": "rs.png"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "capital": "Moscow",
+    "continent": "Europe",
+    "file": "ru.png"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "file": "rw.png"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "file": "sa.png"
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "file": "sb.png"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "continent": "Africa",
+    "file": "sc.png"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "file": "sd.png"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "file": "se.png"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "file": "sg.png"
+  },
+  {
+    "code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "continent": "Africa",
+    "file": "sh.png"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "file": "si.png"
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "capital": "Longyearbyen",
+    "continent": "Europe",
+    "file": "sj.png"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "file": "sk.png"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "file": "sl.png"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "capital": "San Marino",
+    "continent": "Europe",
+    "file": "sm.png"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "file": "sn.png"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "file": "so.png"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "file": "sr.png"
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "continent": "Africa",
+    "file": "ss.png"
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "capital": "São Tomé",
+    "continent": "Africa",
+    "file": "st.png"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "continent": "North America",
+    "file": "sv.png"
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten",
+    "capital": "Philipsburg",
+    "continent": "North America",
+    "file": "sx.png"
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "file": "sy.png"
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "capital": "Lobamba, Mbabane",
+    "continent": "Africa",
+    "file": "sz.png"
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "continent": "North America",
+    "file": "tc.png"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "file": "td.png"
+  },
+  {
+    "code": "TF",
+    "name": "French Southern Territories",
+    "capital": "Saint-Pierre, Réunion",
+    "continent": "Africa",
+    "file": "tf.png"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "capital": "Lomé",
+    "continent": "Africa",
+    "file": "tg.png"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "file": "th.png"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "file": "tj.png"
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "capital": "Nukunonu, Atafu,Tokelau",
+    "continent": "Oceania",
+    "file": "tk.png"
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "continent": "Asia",
+    "file": "tl.png"
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "file": "tm.png"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "file": "tn.png"
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "capital": "Nukuʻalofa",
+    "continent": "Oceania",
+    "file": "to.png"
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "capital": "Ankara",
+    "continent": "Asia",
+    "file": "tr.png"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "continent": "South America",
+    "file": "tt.png"
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "continent": "Oceania",
+    "file": "tv.png"
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "continent": "Asia",
+    "file": "tw.png"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "file": "tz.png"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "capital": "Kiev",
+    "continent": "Europe",
+    "file": "ua.png"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "file": "ug.png"
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "capital": "Washington, D.C.",
+    "continent": "North America",
+    "file": "um.png"
+  },
+  {
+    "code": "US",
+    "name": "United States of America",
+    "capital": "Washington, D.C.",
+    "continent": "North America",
+    "file": "us.png"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "file": "uy.png"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "file": "uz.png"
+  },
+  {
+    "code": "VA",
+    "name": "Holy See",
+    "capital": "Vatican City",
+    "continent": "Europe",
+    "file": "va.png"
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "continent": "North America",
+    "file": "vc.png"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "continent": "South America",
+    "file": "ve.png"
+  },
+  {
+    "code": "VG",
+    "name": "Virgin Islands (British)",
+    "capital": "Road Town",
+    "continent": "North America",
+    "file": "vg.png"
+  },
+  {
+    "code": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "capital": "Charlotte Amalie",
+    "continent": "North America",
+    "file": "vi.png"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "file": "vn.png"
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "continent": "Oceania",
+    "file": "vu.png"
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "capital": "Mata-Utu",
+    "continent": "Oceania",
+    "file": "wf.png"
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "capital": "Apia",
+    "continent": "Oceania",
+    "file": "ws.png"
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "continent": "Asia",
+    "file": "ye.png"
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "continent": "Africa",
+    "file": "yt.png"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "continent": "Africa",
+    "file": "za.png"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "file": "zm.png"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "continent": "Africa",
+    "file": "zw.png"
+  }
+]
