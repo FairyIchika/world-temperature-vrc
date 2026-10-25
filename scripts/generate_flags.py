@@ -22,7 +22,7 @@ LICENSE_URL = (
     UPSTREAM_BASE + "LICENSE"
 )
 
-PNG_WIDTH = 256
+PNG_WIDTH = 128
 
 
 # ============================================
