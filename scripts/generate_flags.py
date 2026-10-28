@@ -1,392 +1,85 @@
+#!/usr/bin/env python3
+"""Generate compact NOAA space-weather text for VRChat (UTF-8)."""
 import json
-import urllib.request
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.request import Request, urlopen
 
-import cairosvg
-from babel import Locale
-
-
-# ============================================
-# Settings
-# ============================================
-
-UPSTREAM_BASE = (
-    "https://raw.githubusercontent.com/"
-    "lipis/flag-icons/main/"
-)
-
-COUNTRY_JSON_URL = (
-    UPSTREAM_BASE + "country.json"
-)
-
-LICENSE_URL = (
-    UPSTREAM_BASE + "LICENSE"
-)
-
-# Unity内蔵用なので128px
-PNG_WIDTH = 256
+K_URL = "https://services.swpc.noaa.gov/products/noaa-planetary-k-index.json"
+SCALES_URL = "https://services.swpc.noaa.gov/products/noaa-scales.json"
+OUTPUT = Path(__file__).resolve().parents[1] / "space_weather.txt"
 
 
-# ============================================
-# Download Helpers
-# ============================================
-
-def download_bytes(url):
-    request = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent":
-                "VRChat-World-Flag-System/2.0"
-        }
-    )
-
-    with urllib.request.urlopen(
-        request,
-        timeout=30
-    ) as response:
-        return response.read()
+def fetch_json(url):
+    req = Request(url, headers={"User-Agent": "ForestLectureRoom/1.0 (GitHub Actions)", "Accept": "application/json"})
+    with urlopen(req, timeout=25) as res:
+        return json.load(res)
 
 
-def download_text(url):
-    return download_bytes(
-        url
-    ).decode("utf-8")
+def kp_state(kp):
+    if kp < 4:
+        return "静穏", "#66FF66"
+    if kp < 5:
+        return "やや活発", "#FFDD66"
+    if kp < 6:
+        return "磁気嵐 G1", "#FFAA55"
+    if kp < 7:
+        return "磁気嵐 G2", "#FF8855"
+    if kp < 8:
+        return "磁気嵐 G3", "#FF6666"
+    if kp < 9:
+        return "磁気嵐 G4", "#FF5555"
+    return "磁気嵐 G5", "#FF4444"
 
 
-# ============================================
-# Main
-# ============================================
+def radio_state(scale):
+    if scale == 0:
+        return "通常 (R0)", "#66FF66"
+    if scale <= 2:
+        return f"電波障害 R{scale}", "#FFDD66"
+    return f"電波障害 R{scale}", "#FF6666"
+
+
+def colored(value, color):
+    return f"<color={color}>{value}</color>"
+
 
 def main():
-
-    # ----------------------------------------
-    # リポジトリ直下
-    # ----------------------------------------
-
-    root = (
-        Path(__file__)
-        .resolve()
-        .parent
-        .parent
-    )
-
-    # ----------------------------------------
-    # 出力先
-    # ----------------------------------------
-
-    output_dir = (
-        root /
-        "flags" /
-        "countries"
-    )
-
-    output_dir.mkdir(
-        parents=True,
-        exist_ok=True
-    )
-
-    metadata_path = (
-        root /
-        "flags" /
-        "countries.json"
-    )
-
-    license_path = (
-        root /
-        "flags" /
-        "THIRD_PARTY_LICENSE_flag-icons.txt"
-    )
-
-
-    # ========================================
-    # 日本語ロケール
-    # ========================================
-
-    ja_locale = Locale.parse(
-        "ja"
-    )
-
-
-    # ========================================
-    # country.json取得
-    # ========================================
-
-    print(
-        "Downloading country metadata..."
-    )
-
-    country_data = json.loads(
-        download_text(
-            COUNTRY_JSON_URL
-        )
-    )
-
-
-    # ========================================
-    # ISO国・地域だけ抽出
-    # ========================================
-
-    countries = [
-        country
-        for country in country_data
-        if country.get("iso") is True
-    ]
-
-    # ISOコード順
-    countries.sort(
-        key=lambda x: x["code"]
-    )
-
-
-    # ========================================
-    # メタデータ格納
-    # ========================================
-
-    generated_metadata = []
-
-    total = len(countries)
-
-
-    # ========================================
-    # SVG → PNG
-    # ========================================
-
-    for index, country in enumerate(
-        countries,
-        start=1
-    ):
-
-        # ------------------------------------
-        # 基本情報
-        # ------------------------------------
-
-        iso_code = (
-            country["code"]
-            .upper()
-        )
-
-        code_lower = (
-            iso_code
-            .lower()
-        )
-
-        english_name = (
-            country
-            .get(
-                "name",
-                iso_code
-            )
-        )
-
-        # CLDRから日本語国名取得
-        japanese_name = (
-            ja_locale
-            .territories
-            .get(
-                iso_code,
-                english_name
-            )
-        )
-
-        capital = (
-            country
-            .get(
-                "capital",
-                ""
-            )
-        )
-
-        continent = (
-            country
-            .get(
-                "continent",
-                ""
-            )
-        )
-
-
-        # ------------------------------------
-        # SVG URL
-        # ------------------------------------
-
-        svg_path = (
-            country["flag_4x3"]
-        )
-
-        svg_url = (
-            UPSTREAM_BASE +
-            svg_path
-        )
-
-
-        # ------------------------------------
-        # PNG出力先
-        # ------------------------------------
-
-        png_filename = (
-            f"{code_lower}.png"
-        )
-
-        png_path = (
-            output_dir /
-            png_filename
-        )
-
-
-        # ------------------------------------
-        # ログ
-        # ------------------------------------
-
-        print(
-            f"[{index}/{total}] "
-            f"{iso_code} "
-            f"{english_name} "
-            f"({japanese_name})"
-        )
-
-
-        # ------------------------------------
-        # SVGダウンロード
-        # ------------------------------------
-
+    observations = fetch_json(K_URL)
+    valid = []
+    for item in observations:
         try:
-
-            svg_data = download_bytes(
-                svg_url
-            )
-
-
-            # --------------------------------
-            # SVG → PNG
-            # --------------------------------
-
-            cairosvg.svg2png(
-                bytestring=svg_data,
-                write_to=str(
-                    png_path
-                ),
-                output_width=PNG_WIDTH
-            )
-
-        except Exception as error:
-
-            print(
-                f"ERROR: "
-                f"{iso_code}: "
-                f"{error}"
-            )
-
+            t = datetime.fromisoformat(item["time_tag"].replace("Z", "+00:00"))
+            if t.tzinfo is None:
+                t = t.replace(tzinfo=timezone.utc)
+            kp = float(item["Kp"])
+            if 0 <= kp <= 9:
+                valid.append((t, kp))
+        except (ValueError, TypeError, KeyError):
             continue
+    if not valid:
+        raise RuntimeError("NOAA Kp observations were empty/invalid")
+    observation_time, kp = max(valid, key=lambda x: x[0])
+    if datetime.now(timezone.utc) - observation_time > timedelta(hours=12):
+        raise RuntimeError("NOAA Kp data is older than 12 hours")
 
+    scales = fetch_json(SCALES_URL)
+    r = int(scales["0"]["R"]["Scale"])
+    if not 0 <= r <= 5:
+        raise RuntimeError("Invalid NOAA R scale")
 
-        # ------------------------------------
-        # countries.json用
-        # ------------------------------------
+    status, status_color = kp_state(kp)
+    solar, solar_color = radio_state(r)
+    lines = [
+        colored("宇宙天気", "#66CCFF"),
+        f"Kp指数: {colored(f'{kp:.2f}', '#FFFFFF')}",
+        f"状態: {colored(status, status_color)}",
+        f"太陽活動: {colored(solar, solar_color)}",
+        f"観測: {colored(observation_time.strftime('%Y-%m-%d %H:%M') + ' UTC', '#FFFFFF')}",
+    ]
+    OUTPUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Saved {OUTPUT.name}: Kp {kp:.2f}, R{r}, observed {observation_time.isoformat()}")
 
-        generated_metadata.append({
-            "code":
-                iso_code,
-
-            "name":
-                english_name,
-
-            "name_ja":
-                japanese_name,
-
-            "capital":
-                capital,
-
-            "continent":
-                continent,
-
-            "file":
-                png_filename
-        })
-
-
-    # ========================================
-    # countries.json保存
-    # ========================================
-
-    with open(
-        metadata_path,
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        json.dump(
-            generated_metadata,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
-
-
-    # ========================================
-    # ライセンス保存
-    # ========================================
-
-    print(
-        "Downloading upstream license..."
-    )
-
-    license_text = download_text(
-        LICENSE_URL
-    )
-
-    with open(
-        license_path,
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        f.write(
-            license_text
-        )
-
-
-    # ========================================
-    # 完了ログ
-    # ========================================
-
-    print()
-    print(
-        "========================================"
-    )
-
-    print(
-        f"Generated flags: "
-        f"{len(generated_metadata)}"
-    )
-
-    print(
-        f"PNG width: "
-        f"{PNG_WIDTH}px"
-    )
-
-    print(
-        f"PNG directory: "
-        f"{output_dir}"
-    )
-
-    print(
-        f"Metadata: "
-        f"{metadata_path}"
-    )
-
-    print(
-        f"License: "
-        f"{license_path}"
-    )
-
-    print(
-        "========================================"
-    )
-
-
-# ============================================
-# Entry Point
-# ============================================
 
 if __name__ == "__main__":
     main()
