@@ -183,10 +183,50 @@ def format_currency(
     change: float | None
 ) -> str:
 
+    code_text = (
+        f"<color=#66CCFF>"
+        f"{code}"
+        f"</color>"
+    )
+
+    rate_text = (
+        f"<color=#FFFFFF>"
+        f"{format_rate(rate)} JPY"
+        f"</color>"
+    )
+
+    if change is None:
+        change_text = (
+            "<color=#FFFFFF>"
+            "--"
+            "</color>"
+        )
+
+    elif change > 0:
+        change_text = (
+            f"<color=#66FF66>"
+            f"{format_change(change)}"
+            f"</color>"
+        )
+
+    elif change < 0:
+        change_text = (
+            f"<color=#FF6666>"
+            f"{format_change(change)}"
+            f"</color>"
+        )
+
+    else:
+        change_text = (
+            f"<color=#FFFFFF>"
+            f"{format_change(change)}"
+            f"</color>"
+        )
+
     return (
-        f"{code} "
-        f"{format_rate(rate)} JPY "
-        f"{format_change(change)}"
+        f"{code_text} "
+        f"{rate_text} "
+        f"{change_text}"
     )
 
 
