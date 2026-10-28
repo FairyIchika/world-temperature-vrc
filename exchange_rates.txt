@@ -1,61 +1,61 @@
 [[PAGE]]
-AED 42.974 JPY +0.24%    AFN 2.427 JPY +0.26%    ALL 1.939 JPY -0.15%
-AMD 0.4370 JPY +0.27%    AOA 0.1710 JPY -0.22%    ARS 0.1025 JPY -0.44%
-AUD 110.98 JPY +0.35%    AWG 88.166 JPY +0.24%    AZN 92.836 JPY +0.24%
-BAM 89.972 JPY -0.10%    BBD 78.910 JPY +0.24%    BDT 1.274 JPY +0.16%
-BHD 419.98 JPY +0.37%    BIF 0.0524 JPY +0.23%    BMD 157.82 JPY +0.24%
-BND 123.19 JPY +0.19%    BOB 13.130 JPY -0.93%    BRL 29.513 JPY +4.75%
+<color=#66CCFF>AED</color> <color=#FFFFFF>42.974 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>AFN</color> <color=#FFFFFF>2.427 JPY</color> <color=#66FF66>+0.26%</color>    <color=#66CCFF>ALL</color> <color=#FFFFFF>1.939 JPY</color> <color=#FF6666>-0.15%</color>
+<color=#66CCFF>AMD</color> <color=#FFFFFF>0.4370 JPY</color> <color=#66FF66>+0.27%</color>    <color=#66CCFF>AOA</color> <color=#FFFFFF>0.1710 JPY</color> <color=#FF6666>-0.22%</color>    <color=#66CCFF>ARS</color> <color=#FFFFFF>0.1025 JPY</color> <color=#FF6666>-0.44%</color>
+<color=#66CCFF>AUD</color> <color=#FFFFFF>110.98 JPY</color> <color=#66FF66>+0.35%</color>    <color=#66CCFF>AWG</color> <color=#FFFFFF>88.166 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>AZN</color> <color=#FFFFFF>92.836 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>BAM</color> <color=#FFFFFF>89.972 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>BBD</color> <color=#FFFFFF>78.910 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>BDT</color> <color=#FFFFFF>1.274 JPY</color> <color=#66FF66>+0.16%</color>
+<color=#66CCFF>BHD</color> <color=#FFFFFF>419.98 JPY</color> <color=#66FF66>+0.37%</color>    <color=#66CCFF>BIF</color> <color=#FFFFFF>0.0524 JPY</color> <color=#66FF66>+0.23%</color>    <color=#66CCFF>BMD</color> <color=#FFFFFF>157.82 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>BND</color> <color=#FFFFFF>123.19 JPY</color> <color=#66FF66>+0.19%</color>    <color=#66CCFF>BOB</color> <color=#FFFFFF>13.130 JPY</color> <color=#FF6666>-0.93%</color>    <color=#66CCFF>BRL</color> <color=#FFFFFF>29.513 JPY</color> <color=#66FF66>+4.75%</color>
 [[PAGE]]
-BSD 157.82 JPY +0.24%    BTN 1.659 JPY +0.30%    BWP 11.221 JPY -1.01%
-BZD 78.910 JPY +0.24%    CAD 112.54 JPY +0.27%    CDF 0.0699 JPY +0.49%
-CHF 190.46 JPY -0.06%    CLP 0.1595 JPY +0.80%    CNY 23.670 JPY +0.25%
-COP 0.0502 JPY +0.50%    CRC 0.3481 JPY +0.38%    CUP 6.576 JPY +0.24%
-CVE 1.596 JPY -0.10%    CZK 7.227 JPY -0.02%    DJF 0.8880 JPY +0.24%
-DKK 23.544 JPY -0.10%    DOP 2.628 JPY +1.03%    DZD 1.168 JPY +0.09%
+<color=#66CCFF>BSD</color> <color=#FFFFFF>157.82 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>BTN</color> <color=#FFFFFF>1.659 JPY</color> <color=#66FF66>+0.30%</color>    <color=#66CCFF>BWP</color> <color=#FFFFFF>11.221 JPY</color> <color=#FF6666>-1.01%</color>
+<color=#66CCFF>BZD</color> <color=#FFFFFF>78.910 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>CAD</color> <color=#FFFFFF>112.54 JPY</color> <color=#66FF66>+0.27%</color>    <color=#66CCFF>CDF</color> <color=#FFFFFF>0.0699 JPY</color> <color=#66FF66>+0.49%</color>
+<color=#66CCFF>CHF</color> <color=#FFFFFF>190.46 JPY</color> <color=#FF6666>-0.06%</color>    <color=#66CCFF>CLP</color> <color=#FFFFFF>0.1595 JPY</color> <color=#66FF66>+0.80%</color>    <color=#66CCFF>CNY</color> <color=#FFFFFF>23.670 JPY</color> <color=#66FF66>+0.25%</color>
+<color=#66CCFF>COP</color> <color=#FFFFFF>0.0502 JPY</color> <color=#66FF66>+0.50%</color>    <color=#66CCFF>CRC</color> <color=#FFFFFF>0.3481 JPY</color> <color=#66FF66>+0.38%</color>    <color=#66CCFF>CUP</color> <color=#FFFFFF>6.576 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>CVE</color> <color=#FFFFFF>1.596 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>CZK</color> <color=#FFFFFF>7.227 JPY</color> <color=#FF6666>-0.02%</color>    <color=#66CCFF>DJF</color> <color=#FFFFFF>0.8880 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>DKK</color> <color=#FFFFFF>23.544 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>DOP</color> <color=#FFFFFF>2.628 JPY</color> <color=#66FF66>+1.03%</color>    <color=#66CCFF>DZD</color> <color=#FFFFFF>1.168 JPY</color> <color=#66FF66>+0.09%</color>
 [[PAGE]]
-EGP 2.807 JPY -0.75%    ERN 10.261 JPY +0.24%    ETB 0.9726 JPY +0.62%
-EUR 175.97 JPY -0.10%    FJD 70.057 JPY +0.13%    FKP 210.34 JPY +0.09%
-GBP 210.34 JPY +0.09%    GEL 60.799 JPY +0.25%    GHS 13.581 JPY +0.22%
-GIP 210.34 JPY +0.09%    GMD 2.177 JPY +0.11%    GNF 0.0179 JPY +0.23%
-GTQ 20.651 JPY +0.26%    GYD 0.7543 JPY +0.24%    HKD 20.119 JPY +0.24%
-HNL 5.867 JPY +0.23%    HTG 1.208 JPY +0.28%    HUF 0.4789 JPY -0.11%
+<color=#66CCFF>EGP</color> <color=#FFFFFF>2.807 JPY</color> <color=#FF6666>-0.75%</color>    <color=#66CCFF>ERN</color> <color=#FFFFFF>10.261 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>ETB</color> <color=#FFFFFF>0.9726 JPY</color> <color=#66FF66>+0.62%</color>
+<color=#66CCFF>EUR</color> <color=#FFFFFF>175.97 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>FJD</color> <color=#FFFFFF>70.057 JPY</color> <color=#66FF66>+0.13%</color>    <color=#66CCFF>FKP</color> <color=#FFFFFF>210.34 JPY</color> <color=#66FF66>+0.09%</color>
+<color=#66CCFF>GBP</color> <color=#FFFFFF>210.34 JPY</color> <color=#66FF66>+0.09%</color>    <color=#66CCFF>GEL</color> <color=#FFFFFF>60.799 JPY</color> <color=#66FF66>+0.25%</color>    <color=#66CCFF>GHS</color> <color=#FFFFFF>13.581 JPY</color> <color=#66FF66>+0.22%</color>
+<color=#66CCFF>GIP</color> <color=#FFFFFF>210.34 JPY</color> <color=#66FF66>+0.09%</color>    <color=#66CCFF>GMD</color> <color=#FFFFFF>2.177 JPY</color> <color=#66FF66>+0.11%</color>    <color=#66CCFF>GNF</color> <color=#FFFFFF>0.0179 JPY</color> <color=#66FF66>+0.23%</color>
+<color=#66CCFF>GTQ</color> <color=#FFFFFF>20.651 JPY</color> <color=#66FF66>+0.26%</color>    <color=#66CCFF>GYD</color> <color=#FFFFFF>0.7543 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>HKD</color> <color=#FFFFFF>20.119 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>HNL</color> <color=#FFFFFF>5.867 JPY</color> <color=#66FF66>+0.23%</color>    <color=#66CCFF>HTG</color> <color=#FFFFFF>1.208 JPY</color> <color=#66FF66>+0.28%</color>    <color=#66CCFF>HUF</color> <color=#FFFFFF>0.4789 JPY</color> <color=#FF6666>-0.11%</color>
 [[PAGE]]
-IDR 0.008701 JPY +0.37%    ILS 51.751 JPY +1.23%    INR 1.659 JPY +0.30%
-IQD 0.1041 JPY +0.17%    ISK 1.290 JPY -0.10%    JMD 0.9947 JPY +0.40%
-JOD 222.61 JPY +0.24%    KES 1.215 JPY +0.21%    KGS 1.805 JPY +0.24%
-KHR 0.0387 JPY +0.21%    KMF 0.3577 JPY -0.10%    KRW 0.1189 JPY +0.05%
-KWD 509.91 JPY +0.22%    KYD 192.46 JPY +0.24%    KZT 0.3483 JPY -0.04%
-LAK 0.007046 JPY +0.24%    LBP 0.001763 JPY +0.24%    LKR 0.4749 JPY +0.24%
+<color=#66CCFF>IDR</color> <color=#FFFFFF>0.008701 JPY</color> <color=#66FF66>+0.37%</color>    <color=#66CCFF>ILS</color> <color=#FFFFFF>51.751 JPY</color> <color=#66FF66>+1.23%</color>    <color=#66CCFF>INR</color> <color=#FFFFFF>1.659 JPY</color> <color=#66FF66>+0.30%</color>
+<color=#66CCFF>IQD</color> <color=#FFFFFF>0.1041 JPY</color> <color=#66FF66>+0.17%</color>    <color=#66CCFF>ISK</color> <color=#FFFFFF>1.290 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>JMD</color> <color=#FFFFFF>0.9947 JPY</color> <color=#66FF66>+0.40%</color>
+<color=#66CCFF>JOD</color> <color=#FFFFFF>222.61 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>KES</color> <color=#FFFFFF>1.215 JPY</color> <color=#66FF66>+0.21%</color>    <color=#66CCFF>KGS</color> <color=#FFFFFF>1.805 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>KHR</color> <color=#FFFFFF>0.0387 JPY</color> <color=#66FF66>+0.21%</color>    <color=#66CCFF>KMF</color> <color=#FFFFFF>0.3577 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>KRW</color> <color=#FFFFFF>0.1189 JPY</color> <color=#66FF66>+0.05%</color>
+<color=#66CCFF>KWD</color> <color=#FFFFFF>509.91 JPY</color> <color=#66FF66>+0.22%</color>    <color=#66CCFF>KYD</color> <color=#FFFFFF>192.46 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>KZT</color> <color=#FFFFFF>0.3483 JPY</color> <color=#FF6666>-0.04%</color>
+<color=#66CCFF>LAK</color> <color=#FFFFFF>0.007046 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>LBP</color> <color=#FFFFFF>0.001763 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>LKR</color> <color=#FFFFFF>0.4749 JPY</color> <color=#66FF66>+0.24%</color>
 [[PAGE]]
-LRD 0.9264 JPY +0.26%    LSL 9.479 JPY +0.12%    LYD 24.600 JPY +0.10%
-MAD 16.031 JPY +0.01%    MDL 8.791 JPY +0.34%    MGA 0.0344 JPY +0.24%
-MKD 2.862 JPY -0.04%    MMK 0.0752 JPY +0.24%    MNT 0.0439 JPY +0.21%
-MOP 19.533 JPY +0.24%    MRU 3.933 JPY +0.24%    MUR 3.342 JPY +0.08%
-MVR 10.235 JPY +0.24%    MWK 0.0911 JPY +0.25%    MXN 8.468 JPY +0.12%
-MYR 38.597 JPY +0.20%    MZN 2.473 JPY +0.22%    NAD 9.479 JPY +0.12%
+<color=#66CCFF>LRD</color> <color=#FFFFFF>0.9264 JPY</color> <color=#66FF66>+0.26%</color>    <color=#66CCFF>LSL</color> <color=#FFFFFF>9.479 JPY</color> <color=#66FF66>+0.12%</color>    <color=#66CCFF>LYD</color> <color=#FFFFFF>24.600 JPY</color> <color=#66FF66>+0.10%</color>
+<color=#66CCFF>MAD</color> <color=#FFFFFF>16.031 JPY</color> <color=#66FF66>+0.01%</color>    <color=#66CCFF>MDL</color> <color=#FFFFFF>8.791 JPY</color> <color=#66FF66>+0.34%</color>    <color=#66CCFF>MGA</color> <color=#FFFFFF>0.0344 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>MKD</color> <color=#FFFFFF>2.862 JPY</color> <color=#FF6666>-0.04%</color>    <color=#66CCFF>MMK</color> <color=#FFFFFF>0.0752 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>MNT</color> <color=#FFFFFF>0.0439 JPY</color> <color=#66FF66>+0.21%</color>
+<color=#66CCFF>MOP</color> <color=#FFFFFF>19.533 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>MRU</color> <color=#FFFFFF>3.933 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>MUR</color> <color=#FFFFFF>3.342 JPY</color> <color=#66FF66>+0.08%</color>
+<color=#66CCFF>MVR</color> <color=#FFFFFF>10.235 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>MWK</color> <color=#FFFFFF>0.0911 JPY</color> <color=#66FF66>+0.25%</color>    <color=#66CCFF>MXN</color> <color=#FFFFFF>8.468 JPY</color> <color=#66FF66>+0.12%</color>
+<color=#66CCFF>MYR</color> <color=#FFFFFF>38.597 JPY</color> <color=#66FF66>+0.20%</color>    <color=#66CCFF>MZN</color> <color=#FFFFFF>2.473 JPY</color> <color=#66FF66>+0.22%</color>    <color=#66CCFF>NAD</color> <color=#FFFFFF>9.479 JPY</color> <color=#66FF66>+0.12%</color>
 [[PAGE]]
-NGN 0.1154 JPY -0.18%    NIO 4.285 JPY +0.15%    NOK 16.939 JPY +0.53%
-NPR 1.037 JPY +0.30%    NZD 90.001 JPY +0.63%    OMR 410.47 JPY +0.25%
-PAB 157.82 JPY +0.24%    PEN 45.797 JPY +0.06%    PGK 35.194 JPY +0.42%
-PHP 2.466 JPY +0.16%    PKR 0.5697 JPY +0.21%    PLN 39.975 JPY -0.06%
-PYG 0.0271 JPY -0.94%    QAR 43.357 JPY +0.24%    RON 32.899 JPY -0.13%
-RSD 1.500 JPY -0.05%    RWF 0.1069 JPY +0.16%    SAR 42.085 JPY +0.24%
+<color=#66CCFF>NGN</color> <color=#FFFFFF>0.1154 JPY</color> <color=#FF6666>-0.18%</color>    <color=#66CCFF>NIO</color> <color=#FFFFFF>4.285 JPY</color> <color=#66FF66>+0.15%</color>    <color=#66CCFF>NOK</color> <color=#FFFFFF>16.939 JPY</color> <color=#66FF66>+0.53%</color>
+<color=#66CCFF>NPR</color> <color=#FFFFFF>1.037 JPY</color> <color=#66FF66>+0.30%</color>    <color=#66CCFF>NZD</color> <color=#FFFFFF>90.001 JPY</color> <color=#66FF66>+0.63%</color>    <color=#66CCFF>OMR</color> <color=#FFFFFF>410.47 JPY</color> <color=#66FF66>+0.25%</color>
+<color=#66CCFF>PAB</color> <color=#FFFFFF>157.82 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>PEN</color> <color=#FFFFFF>45.797 JPY</color> <color=#66FF66>+0.06%</color>    <color=#66CCFF>PGK</color> <color=#FFFFFF>35.194 JPY</color> <color=#66FF66>+0.42%</color>
+<color=#66CCFF>PHP</color> <color=#FFFFFF>2.466 JPY</color> <color=#66FF66>+0.16%</color>    <color=#66CCFF>PKR</color> <color=#FFFFFF>0.5697 JPY</color> <color=#66FF66>+0.21%</color>    <color=#66CCFF>PLN</color> <color=#FFFFFF>39.975 JPY</color> <color=#FF6666>-0.06%</color>
+<color=#66CCFF>PYG</color> <color=#FFFFFF>0.0271 JPY</color> <color=#FF6666>-0.94%</color>    <color=#66CCFF>QAR</color> <color=#FFFFFF>43.357 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>RON</color> <color=#FFFFFF>32.899 JPY</color> <color=#FF6666>-0.13%</color>
+<color=#66CCFF>RSD</color> <color=#FFFFFF>1.500 JPY</color> <color=#FF6666>-0.05%</color>    <color=#66CCFF>RWF</color> <color=#FFFFFF>0.1069 JPY</color> <color=#66FF66>+0.16%</color>    <color=#66CCFF>SAR</color> <color=#FFFFFF>42.085 JPY</color> <color=#66FF66>+0.24%</color>
 [[PAGE]]
-SBD 19.570 JPY +0.24%    SCR 10.765 JPY +0.99%    SDG 0.2629 JPY +0.23%
-SEK 15.882 JPY +0.43%    SGD 123.19 JPY +0.19%    SHP 210.34 JPY +0.09%
-SLE 6.786 JPY +1.78%    SOS 0.2761 JPY +0.22%    SRD 4.197 JPY +0.20%
-SSP 0.0275 JPY +0.54%    STN 7.182 JPY -0.10%    SVC 18.037 JPY +0.24%
-SYP 1.294 JPY +0.24%    SZL 9.479 JPY +0.12%    THB 4.673 JPY +0.34%
-TJS 17.119 JPY +0.29%    TMT 45.092 JPY +0.24%    TND 52.464 JPY +0.05%
+<color=#66CCFF>SBD</color> <color=#FFFFFF>19.570 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>SCR</color> <color=#FFFFFF>10.765 JPY</color> <color=#66FF66>+0.99%</color>    <color=#66CCFF>SDG</color> <color=#FFFFFF>0.2629 JPY</color> <color=#66FF66>+0.23%</color>
+<color=#66CCFF>SEK</color> <color=#FFFFFF>15.882 JPY</color> <color=#66FF66>+0.43%</color>    <color=#66CCFF>SGD</color> <color=#FFFFFF>123.19 JPY</color> <color=#66FF66>+0.19%</color>    <color=#66CCFF>SHP</color> <color=#FFFFFF>210.34 JPY</color> <color=#66FF66>+0.09%</color>
+<color=#66CCFF>SLE</color> <color=#FFFFFF>6.786 JPY</color> <color=#66FF66>+1.78%</color>    <color=#66CCFF>SOS</color> <color=#FFFFFF>0.2761 JPY</color> <color=#66FF66>+0.22%</color>    <color=#66CCFF>SRD</color> <color=#FFFFFF>4.197 JPY</color> <color=#66FF66>+0.20%</color>
+<color=#66CCFF>SSP</color> <color=#FFFFFF>0.0275 JPY</color> <color=#66FF66>+0.54%</color>    <color=#66CCFF>STN</color> <color=#FFFFFF>7.182 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>SVC</color> <color=#FFFFFF>18.037 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>SYP</color> <color=#FFFFFF>1.294 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>SZL</color> <color=#FFFFFF>9.479 JPY</color> <color=#66FF66>+0.12%</color>    <color=#66CCFF>THB</color> <color=#FFFFFF>4.673 JPY</color> <color=#66FF66>+0.34%</color>
+<color=#66CCFF>TJS</color> <color=#FFFFFF>17.119 JPY</color> <color=#66FF66>+0.29%</color>    <color=#66CCFF>TMT</color> <color=#FFFFFF>45.092 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>TND</color> <color=#FFFFFF>52.464 JPY</color> <color=#66FF66>+0.05%</color>
 [[PAGE]]
-TOP 66.678 JPY +0.50%    TRY 3.170 JPY +0.19%    TTD 23.305 JPY +0.19%
-TWD 4.852 JPY +0.43%    TZS 0.0597 JPY +0.21%    UAH 3.460 JPY +0.10%
-UGX 0.0354 JPY -0.20%    USD 157.82 JPY +0.24%    UYU 3.930 JPY +0.08%
-UZS 0.0132 JPY +0.14%    VES 0.1781 JPY +0.24%    VND 0.006108 JPY +0.25%
-VUV 1.332 JPY +0.16%    WST 57.616 JPY +0.22%    XAF 0.2683 JPY -0.10%
-XCD 58.452 JPY +0.24%    XCG 88.166 JPY +0.24%    XDR 213.47 JPY +0.08%
+<color=#66CCFF>TOP</color> <color=#FFFFFF>66.678 JPY</color> <color=#66FF66>+0.50%</color>    <color=#66CCFF>TRY</color> <color=#FFFFFF>3.170 JPY</color> <color=#66FF66>+0.19%</color>    <color=#66CCFF>TTD</color> <color=#FFFFFF>23.305 JPY</color> <color=#66FF66>+0.19%</color>
+<color=#66CCFF>TWD</color> <color=#FFFFFF>4.852 JPY</color> <color=#66FF66>+0.43%</color>    <color=#66CCFF>TZS</color> <color=#FFFFFF>0.0597 JPY</color> <color=#66FF66>+0.21%</color>    <color=#66CCFF>UAH</color> <color=#FFFFFF>3.460 JPY</color> <color=#66FF66>+0.10%</color>
+<color=#66CCFF>UGX</color> <color=#FFFFFF>0.0354 JPY</color> <color=#FF6666>-0.20%</color>    <color=#66CCFF>USD</color> <color=#FFFFFF>157.82 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>UYU</color> <color=#FFFFFF>3.930 JPY</color> <color=#66FF66>+0.08%</color>
+<color=#66CCFF>UZS</color> <color=#FFFFFF>0.0132 JPY</color> <color=#66FF66>+0.14%</color>    <color=#66CCFF>VES</color> <color=#FFFFFF>0.1781 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>VND</color> <color=#FFFFFF>0.006108 JPY</color> <color=#66FF66>+0.25%</color>
+<color=#66CCFF>VUV</color> <color=#FFFFFF>1.332 JPY</color> <color=#66FF66>+0.16%</color>    <color=#66CCFF>WST</color> <color=#FFFFFF>57.616 JPY</color> <color=#66FF66>+0.22%</color>    <color=#66CCFF>XAF</color> <color=#FFFFFF>0.2683 JPY</color> <color=#FF6666>-0.10%</color>
+<color=#66CCFF>XCD</color> <color=#FFFFFF>58.452 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>XCG</color> <color=#FFFFFF>88.166 JPY</color> <color=#66FF66>+0.24%</color>    <color=#66CCFF>XDR</color> <color=#FFFFFF>213.47 JPY</color> <color=#66FF66>+0.08%</color>
 [[PAGE]]
-XOF 0.2683 JPY -0.10%    XPF 1.475 JPY -0.10%    YER 0.6685 JPY +0.24%
-ZAR 9.479 JPY +0.12%    ZMW 7.794 JPY +0.47%    ZWG 5.940 JPY +0.28%
+<color=#66CCFF>XOF</color> <color=#FFFFFF>0.2683 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>XPF</color> <color=#FFFFFF>1.475 JPY</color> <color=#FF6666>-0.10%</color>    <color=#66CCFF>YER</color> <color=#FFFFFF>0.6685 JPY</color> <color=#66FF66>+0.24%</color>
+<color=#66CCFF>ZAR</color> <color=#FFFFFF>9.479 JPY</color> <color=#66FF66>+0.12%</color>    <color=#66CCFF>ZMW</color> <color=#FFFFFF>7.794 JPY</color> <color=#66FF66>+0.47%</color>    <color=#66CCFF>ZWG</color> <color=#FFFFFF>5.940 JPY</color> <color=#66FF66>+0.28%</color>
 [[UPDATED]]
 Updated: 2026-10-27 | Previous: 2026-10-26
