@@ -70,24 +70,13 @@ def main():
 
     status, status_color = kp_state(kp)
     solar, solar_color = radio_state(r)
-   
     lines = [
         colored("宇宙天気", "#66CCFF"),
         f"Kp指数: {colored(f'{kp:.2f}', '#FFFFFF')}",
         f"状態: {colored(status, status_color)}",
         f"太陽活動: {colored(solar, solar_color)}",
-        "",
-        "",
-        (
-            "<align=right><size=60%>"
-            + colored(
-                "観測: " + observation_time.strftime("%Y-%m-%d %H:%M") + " UTC",
-                "#BBBBBB"
-            )
-            + "</size></align>"
-        ),
+        f"観測: {colored(observation_time.strftime('%Y-%m-%d %H:%M') + ' UTC', '#FFFFFF')}",
     ]
-
     OUTPUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Saved {OUTPUT.name}: Kp {kp:.2f}, R{r}, observed {observation_time.isoformat()}")
 
