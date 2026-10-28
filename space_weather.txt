@@ -1,5 +1,5 @@
 <color=#66CCFF>宇宙天気</color>
-Kp指数: <color=#FFFFFF>1.33</color>
+Kp指数: <color=#FFFFFF>2.33</color>
 状態: <color=#66FF66>静穏</color>
 太陽活動: <color=#66FF66>通常 (R0)</color>
-観測: <color=#FFFFFF>2026-10-28 15:00 UTC</color>
+観測: <color=#FFFFFF>2026-10-28 18:00 UTC</color>
