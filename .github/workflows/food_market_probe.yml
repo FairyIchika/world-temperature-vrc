@@ -13,4 +13,4 @@ jobs:
         with:
           python-version: '3.12'
       - name: Probe API and daily reports
-        run: python probe_food_market.py
+        run: python scripts/probe_food_market.py
