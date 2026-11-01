@@ -2,4 +2,4 @@
 <color=#77CCFF>日経平均</color>  <color=#FFFFFF>63,290.11</color>  <color=#FF7777>-2.12%</color>  <color=#BBBBBB>10/30</color>
 <color=#77CCFF>NYダウ</color>  <color=#FFFFFF>51,770.31</color>  <color=#FF7777>-1.09%</color>  <color=#BBBBBB>10/30</color>
 <color=#77CCFF>KOSPI</color>  <color=#FFFFFF>5,730.74</color>  <color=#FF7777>-3.48%</color>  <color=#BBBBBB>10/30</color>
-取得: 2026-11-01 07:56 JST | 日次終値
+取得: 2026-11-02 07:57 JST | 日次終値
