@@ -2,4 +2,4 @@
 Kp指数: <color=#FFFFFF>3.33</color>
 状態: <color=#66FF66>静穏</color>
 太陽活動: <color=#66FF66>通常 (R0)</color>
-観測: <color=#FFFFFF>2026-11-01 06:00 UTC</color>
+観測: <color=#FFFFFF>2026-11-01 09:00 UTC</color>
