@@ -1,5 +1,5 @@
 世界の株式市場
-<color=#77CCFF>日経平均</color>  <color=#FFFFFF>63,290.11</color>  <color=#FF7777>-2.12%</color>  <color=#BBBBBB>10/30</color>
-<color=#77CCFF>NYダウ</color>  <color=#FFFFFF>51,983.98</color>  <color=#75DE8B>+0.41%</color>  <color=#BBBBBB>11/02</color>
-<color=#77CCFF>KOSPI</color>  <color=#FFFFFF>5,730.74</color>  <color=#FF7777>-3.48%</color>  <color=#BBBBBB>10/30</color>
-取得: 2026-11-03 08:02 JST | 日次終値
+<color=#77CCFF>日経平均</color>  <color=#FFFFFF>63,081.86</color>  <color=#FF7777>-0.33%</color>  <color=#BBBBBB>11/02</color>
+<color=#77CCFF>NYダウ</color>  <color=#FFFFFF>51,786.72</color>  <color=#FF7777>-0.38%</color>  <color=#BBBBBB>11/03</color>
+<color=#77CCFF>KOSPI</color>  <color=#FFFFFF>5,859.08</color>  <color=#75DE8B>+2.24%</color>  <color=#BBBBBB>11/02</color>
+取得: 2026-11-04 08:08 JST | 日次終値
