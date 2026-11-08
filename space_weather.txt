@@ -1,5 +1,5 @@
 <color=#66CCFF>宇宙天気</color>
-Kp指数: <color=#FFFFFF>5.00</color>
-状態: <color=#FFAA55>磁気嵐 G1</color>
+Kp指数: <color=#FFFFFF>3.33</color>
+状態: <color=#66FF66>静穏</color>
 太陽活動: <color=#66FF66>通常 (R0)</color>
-観測: <color=#FFFFFF>2026-11-08 00:00 UTC</color>
+観測: <color=#FFFFFF>2026-11-08 03:00 UTC</color>
