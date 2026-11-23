@@ -1,910 +1,910 @@
 {
   "base": "JPY",
-  "latest_date": "2026-11-20",
-  "previous_date": "2026-11-19",
-  "generated_at_utc": "2026-11-23T07:49:41.378327+00:00",
+  "latest_date": "2026-11-23",
+  "previous_date": "2026-11-20",
+  "generated_at_utc": "2026-11-23T23:59:10.053775+00:00",
   "currency_count": 150,
   "page_count": 9,
   "currencies": [
     {
       "code": "AED",
-      "rate_jpy": 43.19764128738138,
-      "previous_rate_jpy": 43.55925485533095,
-      "change_percent": -0.8301647242372714
+      "rate_jpy": 43.31516192467578,
+      "previous_rate_jpy": 43.19764128738138,
+      "change_percent": 0.27205336632286664
     },
     {
       "code": "AFN",
-      "rate_jpy": 2.395414433488265,
-      "previous_rate_jpy": 2.4598924496522243,
-      "change_percent": -2.62117216437959
+      "rate_jpy": 2.3882690573604557,
+      "previous_rate_jpy": 2.395414433488265,
+      "change_percent": -0.2982939414539645
     },
     {
       "code": "ALL",
-      "rate_jpy": 1.935072142064373,
-      "previous_rate_jpy": 1.9496618250360351,
-      "change_percent": -0.7483186460499333
+      "rate_jpy": 1.940776265893375,
+      "previous_rate_jpy": 1.935072142064373,
+      "change_percent": 0.29477577114601017
     },
     {
       "code": "AMD",
-      "rate_jpy": 0.4397780300163955,
-      "previous_rate_jpy": 0.44360352178410156,
-      "change_percent": -0.8623673122162265
+      "rate_jpy": 0.44113471581402425,
+      "previous_rate_jpy": 0.4397780300163955,
+      "change_percent": 0.3084933091310146
     },
     {
       "code": "AOA",
-      "rate_jpy": 0.17243101523148877,
-      "previous_rate_jpy": 0.17367153718668704,
-      "change_percent": -0.714292033855142
+      "rate_jpy": 0.17285996266836734,
+      "previous_rate_jpy": 0.17243101523148877,
+      "change_percent": 0.24876466469950995
     },
     {
       "code": "ARS",
-      "rate_jpy": 0.10130415370852805,
-      "previous_rate_jpy": 0.10258873190199183,
-      "change_percent": -1.2521630491455955
+      "rate_jpy": 0.10071177137195118,
+      "previous_rate_jpy": 0.10130415370852805,
+      "change_percent": -0.5847562166910415
     },
     {
       "code": "AUD",
-      "rate_jpy": 105.74998483653788,
-      "previous_rate_jpy": 107.36353645133717,
-      "change_percent": -1.5028860525012966
+      "rate_jpy": 105.25647229615291,
+      "previous_rate_jpy": 105.74998483653788,
+      "change_percent": -0.46667859210364177
     },
     {
       "code": "AWG",
-      "rate_jpy": 88.62850752338349,
-      "previous_rate_jpy": 89.36775767432405,
-      "change_percent": -0.8272000665324457
+      "rate_jpy": 88.86675859251315,
+      "previous_rate_jpy": 88.62850752338349,
+      "change_percent": 0.2688199043257055
     },
     {
       "code": "AZN",
-      "rate_jpy": 93.3201306000107,
-      "previous_rate_jpy": 94.10253665846088,
-      "change_percent": -0.8314399231232953
+      "rate_jpy": 93.57388685738869,
+      "previous_rate_jpy": 93.3201306000107,
+      "change_percent": 0.2719201695780283
     },
     {
       "code": "BAM",
-      "rate_jpy": 89.14373948656069,
-      "previous_rate_jpy": 89.90556438954306,
-      "change_percent": -0.8473612374886296
+      "rate_jpy": 88.96990024695397,
+      "previous_rate_jpy": 89.14373948656069,
+      "change_percent": -0.19501003728133842
     },
     {
       "code": "BBD",
-      "rate_jpy": 79.3221110100091,
-      "previous_rate_jpy": 79.98544395924309,
-      "change_percent": -0.8293170812079179
+      "rate_jpy": 79.53652070573177,
+      "previous_rate_jpy": 79.3221110100091,
+      "change_percent": 0.2703025587602232
     },
     {
       "code": "BDT",
-      "rate_jpy": 1.2716967067176366,
-      "previous_rate_jpy": 1.2823317668816527,
-      "change_percent": -0.8293532484092068
+      "rate_jpy": 1.275134834095439,
+      "previous_rate_jpy": 1.2716967067176366,
+      "change_percent": 0.27035749637792755
     },
     {
       "code": "BHD",
-      "rate_jpy": 422.1549636803874,
-      "previous_rate_jpy": 425.7627118644068,
-      "change_percent": -0.8473612374886295
+      "rate_jpy": 423.38199513381994,
+      "previous_rate_jpy": 422.1549636803874,
+      "change_percent": 0.29065901363213614
     },
     {
       "code": "BIF",
-      "rate_jpy": 0.052597378306530336,
-      "previous_rate_jpy": 0.053040748530927516,
-      "change_percent": -0.8359049158943435
+      "rate_jpy": 0.05273955642520309,
+      "previous_rate_jpy": 0.052597378306530336,
+      "change_percent": 0.27031407885799413
     },
     {
       "code": "BMD",
-      "rate_jpy": 158.6442220200182,
-      "previous_rate_jpy": 159.97088791848617,
-      "change_percent": -0.8293170812079179
+      "rate_jpy": 159.07304141146355,
+      "previous_rate_jpy": 158.6442220200182,
+      "change_percent": 0.2703025587602232
     },
     {
       "code": "BND",
-      "rate_jpy": 123.12853107344633,
-      "previous_rate_jpy": 124.04063205417607,
-      "change_percent": -0.7353243575309879
+      "rate_jpy": 123.20164259416595,
+      "previous_rate_jpy": 123.12853107344633,
+      "change_percent": 0.0593782124112323
     },
     {
       "code": "BOB",
-      "rate_jpy": 13.501583638574184,
-      "previous_rate_jpy": 13.696090725696529,
-      "change_percent": -1.4201650019549852
+      "rate_jpy": 13.53815751596866,
+      "previous_rate_jpy": 13.501583638574184,
+      "change_percent": 0.2708858336438692
     },
     {
       "code": "BRL",
-      "rate_jpy": 26.716621462173798,
-      "previous_rate_jpy": 27.15046707326488,
-      "change_percent": -1.5979305620060287
+      "rate_jpy": 26.52146743686272,
+      "previous_rate_jpy": 26.716621462173798,
+      "change_percent": -0.7304592221265005
     },
     {
       "code": "BSD",
-      "rate_jpy": 158.6442220200182,
-      "previous_rate_jpy": 159.97088791848617,
-      "change_percent": -0.8293170812079179
+      "rate_jpy": 159.07304141146355,
+      "previous_rate_jpy": 158.6442220200182,
+      "change_percent": 0.2703025587602232
     },
     {
       "code": "BTN",
-      "rate_jpy": 1.7118311242022584,
-      "previous_rate_jpy": 1.7146757679180888,
-      "change_percent": -0.16589980269473176
+      "rate_jpy": 1.7120312476940558,
+      "previous_rate_jpy": 1.7118311242022584,
+      "change_percent": 0.011690609486417269
     },
     {
       "code": "BWP",
-      "rate_jpy": 11.04165875036415,
-      "previous_rate_jpy": 11.133976230125814,
-      "change_percent": -0.8291510405049733
+      "rate_jpy": 11.039702579589143,
+      "previous_rate_jpy": 11.04165875036415,
+      "change_percent": -0.0177162763243513
     },
     {
       "code": "BZD",
-      "rate_jpy": 79.3221110100091,
-      "previous_rate_jpy": 79.98544395924309,
-      "change_percent": -0.8293170812079179
+      "rate_jpy": 79.53652070573177,
+      "previous_rate_jpy": 79.3221110100091,
+      "change_percent": 0.2703025587602232
     },
     {
       "code": "CAD",
-      "rate_jpy": 110.88850728232525,
-      "previous_rate_jpy": 111.86462243145237,
-      "change_percent": -0.8725861026574885
+      "rate_jpy": 110.7567946025078,
+      "previous_rate_jpy": 110.88850728232525,
+      "change_percent": -0.1187793785356944
     },
     {
       "code": "CDF",
-      "rate_jpy": 0.07019655841593726,
-      "previous_rate_jpy": 0.07081836085217075,
-      "change_percent": -0.8780243269559167
+      "rate_jpy": 0.07038630150949715,
+      "previous_rate_jpy": 0.07019655841593726,
+      "change_percent": 0.270302558760216
     },
     {
       "code": "CHF",
-      "rate_jpy": 189.0382738805161,
-      "previous_rate_jpy": 189.85100410278557,
-      "change_percent": -0.4280884507882045
+      "rate_jpy": 189.42956673198344,
+      "previous_rate_jpy": 189.0382738805161,
+      "change_percent": 0.20699133748685325
     },
     {
       "code": "CLP",
-      "rate_jpy": 0.15628221331827433,
-      "previous_rate_jpy": 0.1588508966077962,
-      "change_percent": -1.617040472779931
+      "rate_jpy": 0.15563983077377172,
+      "previous_rate_jpy": 0.15628221331827433,
+      "change_percent": -0.4110400863048769
     },
     {
       "code": "CNY",
-      "rate_jpy": 23.757290020166785,
-      "previous_rate_jpy": 23.995633187772924,
-      "change_percent": -0.9932772589955573
+      "rate_jpy": 23.868047459022016,
+      "previous_rate_jpy": 23.757290020166785,
+      "change_percent": 0.46620401047936216
     },
     {
       "code": "COP",
-      "rate_jpy": 0.04625760458039165,
-      "previous_rate_jpy": 0.0477370768641866,
-      "change_percent": -3.0992100500918625
+      "rate_jpy": 0.04550197033128237,
+      "previous_rate_jpy": 0.04625760458039165,
+      "change_percent": -1.6335351905134947
     },
     {
       "code": "CRC",
-      "rate_jpy": 0.35558490606827514,
-      "previous_rate_jpy": 0.3583256508509419,
-      "change_percent": -0.7648754076517091
+      "rate_jpy": 0.35669803515774573,
+      "previous_rate_jpy": 0.35558490606827514,
+      "change_percent": 0.3130417153468428
     },
     {
       "code": "CUP",
-      "rate_jpy": 6.610175917500758,
-      "previous_rate_jpy": 6.665453663270257,
-      "change_percent": -0.8293170812079136
+      "rate_jpy": 6.628043392144315,
+      "previous_rate_jpy": 6.610175917500758,
+      "change_percent": 0.2703025587602322
     },
     {
       "code": "CVE",
-      "rate_jpy": 1.581190767696005,
-      "previous_rate_jpy": 1.5947036684351337,
-      "change_percent": -0.8473612374886338
+      "rate_jpy": 1.578107286990432,
+      "previous_rate_jpy": 1.581190767696005,
+      "change_percent": -0.19501003728133912
     },
     {
       "code": "CZK",
-      "rate_jpy": 7.125342269810781,
-      "previous_rate_jpy": 7.198591722274532,
-      "change_percent": -1.0175525337420708
+      "rate_jpy": 7.115518298916377,
+      "previous_rate_jpy": 7.125342269810781,
+      "change_percent": -0.13787367009760196
     },
     {
       "code": "DJF",
-      "rate_jpy": 0.8926605739446535,
-      "previous_rate_jpy": 0.9001233676817626,
-      "change_percent": -0.829085657039356
+      "rate_jpy": 0.8950717302182511,
+      "previous_rate_jpy": 0.8926605739446535,
+      "change_percent": 0.27010896907239973
     },
     {
       "code": "DKK",
-      "rate_jpy": 23.32566291172772,
-      "previous_rate_jpy": 23.52626368039389,
-      "change_percent": -0.8526673482510752
+      "rate_jpy": 23.28017552778744,
+      "previous_rate_jpy": 23.32566291172772,
+      "change_percent": -0.19501003728134061
     },
     {
       "code": "DOP",
-      "rate_jpy": 2.6537613852223463,
-      "previous_rate_jpy": 2.660767300888839,
-      "change_percent": -0.2633043357137029
+      "rate_jpy": 2.661859278341053,
+      "previous_rate_jpy": 2.6537613852223463,
+      "change_percent": 0.3051477485428971
     },
     {
       "code": "DZD",
-      "rate_jpy": 1.156927397248457,
-      "previous_rate_jpy": 1.1666999522942865,
-      "change_percent": -0.8376236775026796
+      "rate_jpy": 1.1601687615176803,
+      "previous_rate_jpy": 1.156927397248457,
+      "change_percent": 0.28017006745041034
     },
     {
       "code": "EGP",
-      "rate_jpy": 2.9478500223181077,
-      "previous_rate_jpy": 2.9733893154812736,
-      "change_percent": -0.8589286653514507
+      "rate_jpy": 2.940386249921848,
+      "previous_rate_jpy": 2.9478500223181077,
+      "change_percent": -0.25319376290353246
     },
     {
       "code": "ERN",
-      "rate_jpy": 10.314981127163868,
-      "previous_rate_jpy": 10.401225622127448,
-      "change_percent": -0.8291762730355984
+      "rate_jpy": 10.342839481223475,
+      "previous_rate_jpy": 10.314981127163868,
+      "change_percent": 0.2700766362649314
     },
     {
       "code": "ETB",
-      "rate_jpy": 0.9741992261164736,
-      "previous_rate_jpy": 0.9796520519264615,
-      "change_percent": -0.5566084202309496
+      "rate_jpy": 0.9736633601317838,
+      "previous_rate_jpy": 0.9741992261164736,
+      "change_percent": -0.05500579043015286
     },
     {
       "code": "EUR",
-      "rate_jpy": 174.35,
-      "previous_rate_jpy": 175.84,
-      "change_percent": -0.8473612374886311
+      "rate_jpy": 174.01,
+      "previous_rate_jpy": 174.35,
+      "change_percent": -0.19501003728133262
     },
     {
       "code": "FJD",
-      "rate_jpy": 68.80426203630624,
-      "previous_rate_jpy": 69.54045716997548,
-      "change_percent": -1.058657310621044
+      "rate_jpy": 68.8004111972165,
+      "previous_rate_jpy": 68.80426203630624,
+      "change_percent": -0.005596803127841528
     },
     {
       "code": "FKP",
-      "rate_jpy": 208.21639696662086,
-      "previous_rate_jpy": 210.3827424893217,
-      "change_percent": -1.0297163622205407
+      "rate_jpy": 207.9643373609169,
+      "previous_rate_jpy": 208.21639696662086,
+      "change_percent": -0.12105655912602524
     },
     {
       "code": "GBP",
-      "rate_jpy": 208.21639696662086,
-      "previous_rate_jpy": 210.3827424893217,
-      "change_percent": -1.0297163622205407
+      "rate_jpy": 207.9643373609169,
+      "previous_rate_jpy": 208.21639696662086,
+      "change_percent": -0.12105655912602524
     },
     {
       "code": "GEL",
-      "rate_jpy": 61.14540225853966,
-      "previous_rate_jpy": 61.70041054072073,
-      "change_percent": -0.8995212143925344
+      "rate_jpy": 61.3835191195146,
+      "previous_rate_jpy": 61.14540225853966,
+      "change_percent": 0.3894272540200439
     },
     {
       "code": "GHS",
-      "rate_jpy": 13.450441276306856,
-      "previous_rate_jpy": 13.610328493142202,
-      "change_percent": -1.1747491393459568
+      "rate_jpy": 13.471707169787948,
+      "previous_rate_jpy": 13.450441276306856,
+      "change_percent": 0.15810554497235416
     },
     {
       "code": "GIP",
-      "rate_jpy": 208.21639696662086,
-      "previous_rate_jpy": 210.3827424893217,
-      "change_percent": -1.0297163622205407
+      "rate_jpy": 207.9643373609169,
+      "previous_rate_jpy": 208.21639696662086,
+      "change_percent": -0.12105655912602524
     },
     {
       "code": "GMD",
-      "rate_jpy": 2.1903266331658293,
-      "previous_rate_jpy": 2.210433689503457,
-      "change_percent": -0.9096430457565339
+      "rate_jpy": 2.1573270518224645,
+      "previous_rate_jpy": 2.1903266331658293,
+      "change_percent": -1.5066054917876892
     },
     {
       "code": "GNF",
-      "rate_jpy": 0.017948181402449585,
-      "previous_rate_jpy": 0.018098435356092173,
-      "change_percent": -0.8302041070749827
+      "rate_jpy": 0.017993044392193853,
+      "previous_rate_jpy": 0.017948181402449585,
+      "change_percent": 0.24995841494083584
     },
     {
       "code": "GTQ",
-      "rate_jpy": 20.75101166388955,
-      "previous_rate_jpy": 20.925859811971915,
-      "change_percent": -0.8355601617016108
+      "rate_jpy": 20.804887672019035,
+      "previous_rate_jpy": 20.75101166388955,
+      "change_percent": 0.25963075440432226
     },
     {
       "code": "GYD",
-      "rate_jpy": 0.7582650235199154,
-      "previous_rate_jpy": 0.7646061782475108,
-      "change_percent": -0.8293360566519824
+      "rate_jpy": 0.7603145598861865,
+      "previous_rate_jpy": 0.7582650235199154,
+      "change_percent": 0.27029287949442155
     },
     {
       "code": "HKD",
-      "rate_jpy": 20.237957051654092,
-      "previous_rate_jpy": 20.389846821043843,
-      "change_percent": -0.7449284475888713
+      "rate_jpy": 20.287506412349018,
+      "previous_rate_jpy": 20.237957051654092,
+      "change_percent": 0.24483380693248158
     },
     {
       "code": "HNL",
-      "rate_jpy": 5.892432271670362,
-      "previous_rate_jpy": 5.941182830576278,
-      "change_percent": -0.8205530833863871
+      "rate_jpy": 5.908277564435571,
+      "previous_rate_jpy": 5.892432271670362,
+      "change_percent": 0.26890920480138697
     },
     {
       "code": "HTG",
-      "rate_jpy": 1.212688189244739,
-      "previous_rate_jpy": 1.2234296802760232,
-      "change_percent": -0.8779818901288021
+      "rate_jpy": 1.2154566466640078,
+      "previous_rate_jpy": 1.212688189244739,
+      "change_percent": 0.22829095259787932
     },
     {
       "code": "HUF",
-      "rate_jpy": 0.4667380538080578,
-      "previous_rate_jpy": 0.47597650434453076,
-      "change_percent": -1.9409467593773975
+      "rate_jpy": 0.46741699795852587,
+      "previous_rate_jpy": 0.4667380538080578,
+      "change_percent": 0.1454657799870133
     },
     {
       "code": "IDR",
-      "rate_jpy": 0.00868650221683921,
-      "previous_rate_jpy": 0.008759982264822077,
-      "change_percent": -0.8388150313722028
+      "rate_jpy": 0.008729770921901135,
+      "previous_rate_jpy": 0.00868650221683921,
+      "change_percent": 0.49811424646903435
     },
     {
       "code": "ILS",
-      "rate_jpy": 47.458965076081334,
-      "previous_rate_jpy": 48.64311599214363,
-      "change_percent": -2.4343648467206465
+      "rate_jpy": 47.48792402368802,
+      "previous_rate_jpy": 47.458965076081334,
+      "change_percent": 0.061018919313259916
     },
     {
       "code": "INR",
-      "rate_jpy": 1.7118311242022584,
-      "previous_rate_jpy": 1.7146757679180888,
-      "change_percent": -0.16589980269473176
+      "rate_jpy": 1.7120312476940558,
+      "previous_rate_jpy": 1.7118311242022584,
+      "change_percent": 0.011690609486417269
     },
     {
       "code": "IQD",
-      "rate_jpy": 0.10464658444592229,
-      "previous_rate_jpy": 0.10552170654235782,
-      "change_percent": -0.8293289836856899
+      "rate_jpy": 0.10492947215066523,
+      "previous_rate_jpy": 0.10464658444592229,
+      "change_percent": 0.27032674428961095
     },
     {
       "code": "ISK",
-      "rate_jpy": 1.2707725947521866,
-      "previous_rate_jpy": 1.2816326530612245,
-      "change_percent": -0.8473612374886268
+      "rate_jpy": 1.2682944606413995,
+      "previous_rate_jpy": 1.2707725947521866,
+      "change_percent": -0.19501003728132674
     },
     {
       "code": "JMD",
-      "rate_jpy": 1.000921984919863,
-      "previous_rate_jpy": 1.0097924136932996,
-      "change_percent": -0.8784408214152886
+      "rate_jpy": 1.0057492025271753,
+      "previous_rate_jpy": 1.000921984919863,
+      "change_percent": 0.48227710850998934
     },
     {
       "code": "JOD",
-      "rate_jpy": 223.75513347022587,
-      "previous_rate_jpy": 225.6383934300013,
-      "change_percent": -0.8346363095160266
+      "rate_jpy": 224.35533780299124,
+      "previous_rate_jpy": 223.75513347022587,
+      "change_percent": 0.2682415922516651
     },
     {
       "code": "KES",
-      "rate_jpy": 1.2197749765279893,
-      "previous_rate_jpy": 1.2300339826267495,
-      "change_percent": -0.8340424934319274
+      "rate_jpy": 1.2228296197288706,
+      "previous_rate_jpy": 1.2197749765279893,
+      "change_percent": 0.25042678032108673
     },
     {
       "code": "KGS",
-      "rate_jpy": 1.8141125155554814,
-      "previous_rate_jpy": 1.8292847854356307,
-      "change_percent": -0.8294099421231528
+      "rate_jpy": 1.8190161987673212,
+      "previous_rate_jpy": 1.8141125155554814,
+      "change_percent": 0.27030755643832616
     },
     {
       "code": "KHR",
-      "rate_jpy": 0.038994267719634906,
-      "previous_rate_jpy": 0.039315818893236446,
-      "change_percent": -0.8178671655669267
+      "rate_jpy": 0.039114885505620756,
+      "previous_rate_jpy": 0.038994267719634906,
+      "change_percent": 0.3093218389253511
     },
     {
       "code": "KMF",
-      "rate_jpy": 0.35439314873789995,
-      "previous_rate_jpy": 0.35742180254701655,
-      "change_percent": -0.8473612374886389
+      "rate_jpy": 0.3537020465264237,
+      "previous_rate_jpy": 0.35439314873789995,
+      "change_percent": -0.1950100372813362
     },
     {
       "code": "KRW",
-      "rate_jpy": 0.11844107497078883,
-      "previous_rate_jpy": 0.12041938598713901,
-      "change_percent": -1.6428509414268802
+      "rate_jpy": 0.11793210483154977,
+      "previous_rate_jpy": 0.11844107497078883,
+      "change_percent": -0.429724349736432
     },
     {
       "code": "KWD",
-      "rate_jpy": 511.1404280269715,
-      "previous_rate_jpy": 515.3575615474795,
-      "change_percent": -0.8182927418092101
+      "rate_jpy": 512.5478645066273,
+      "previous_rate_jpy": 511.1404280269715,
+      "change_percent": 0.27535221291115475
     },
     {
       "code": "KYD",
-      "rate_jpy": 193.46426986240567,
-      "previous_rate_jpy": 195.0959724841895,
-      "change_percent": -0.8363589473463184
+      "rate_jpy": 193.99108138238572,
+      "previous_rate_jpy": 193.46426986240567,
+      "change_percent": 0.2723042969922656
     },
     {
       "code": "KZT",
-      "rate_jpy": 0.35099551063958284,
-      "previous_rate_jpy": 0.3583671306580798,
-      "change_percent": -2.057002271653718
+      "rate_jpy": 0.3494176706827309,
+      "previous_rate_jpy": 0.35099551063958284,
+      "change_percent": -0.4495328028489087
     },
     {
       "code": "LAK",
-      "rate_jpy": 0.0070678611966920706,
-      "previous_rate_jpy": 0.00713028668748226,
-      "change_percent": -0.8754976276028549
+      "rate_jpy": 0.007089138759879409,
+      "previous_rate_jpy": 0.0070678611966920706,
+      "change_percent": 0.30104670416132806
     },
     {
       "code": "LBP",
-      "rate_jpy": 0.0017725611398884714,
-      "previous_rate_jpy": 0.0017873842225529183,
-      "change_percent": -0.8293170812079272
+      "rate_jpy": 0.0017773524180051794,
+      "previous_rate_jpy": 0.0017725611398884714,
+      "change_percent": 0.2703025587602231
     },
     {
       "code": "LKR",
-      "rate_jpy": 0.4766644913523739,
-      "previous_rate_jpy": 0.48065174452200793,
-      "change_percent": -0.829551377910683
+      "rate_jpy": 0.4781827899812722,
+      "previous_rate_jpy": 0.4766644913523739,
+      "change_percent": 0.31852564150324975
     },
     {
       "code": "LRD",
-      "rate_jpy": 0.9460565962690588,
-      "previous_rate_jpy": 0.9523211202554543,
-      "change_percent": -0.6578163450491492
+      "rate_jpy": 0.9616314521624135,
+      "previous_rate_jpy": 0.9460565962690588,
+      "change_percent": 1.6462921938049917
     },
     {
       "code": "LSL",
-      "rate_jpy": 9.081344049336675,
-      "previous_rate_jpy": 9.257270410849285,
-      "change_percent": -1.900412904720049
+      "rate_jpy": 9.086067264363255,
+      "previous_rate_jpy": 9.081344049336675,
+      "change_percent": 0.052010087944249876
     },
     {
       "code": "LYD",
-      "rate_jpy": 24.522835000070327,
-      "previous_rate_jpy": 24.743544642228947,
-      "change_percent": -0.8919887807098718
+      "rate_jpy": 24.608966199971714,
+      "previous_rate_jpy": 24.522835000070327,
+      "change_percent": 0.3512285586113548
     },
     {
       "code": "MAD",
-      "rate_jpy": 15.90929829363993,
-      "previous_rate_jpy": 16.055514974433894,
-      "change_percent": -0.9106944313327434
+      "rate_jpy": 15.923316251830158,
+      "previous_rate_jpy": 15.90929829363993,
+      "change_percent": 0.08811173146355807
     },
     {
       "code": "MDL",
-      "rate_jpy": 8.667962593776567,
-      "previous_rate_jpy": 8.732227900024334,
-      "change_percent": -0.7359554398206705
+      "rate_jpy": 8.713352194486868,
+      "previous_rate_jpy": 8.667962593776567,
+      "change_percent": 0.5236478609505082
     },
     {
       "code": "MGA",
-      "rate_jpy": 0.03470038452046397,
-      "previous_rate_jpy": 0.03499087618475278,
-      "change_percent": -0.8301925986505867
+      "rate_jpy": 0.034785372591901065,
+      "previous_rate_jpy": 0.03470038452046397,
+      "change_percent": 0.24491968204840261
     },
     {
       "code": "MKD",
-      "rate_jpy": 2.8304858013026566,
-      "previous_rate_jpy": 2.854842061512884,
-      "change_percent": -0.8531561356259536
+      "rate_jpy": 2.8355815704308207,
+      "previous_rate_jpy": 2.8304858013026566,
+      "change_percent": 0.18003160891388062
     },
     {
       "code": "MMK",
-      "rate_jpy": 0.07554486762858009,
-      "previous_rate_jpy": 0.07617727331802625,
-      "change_percent": -0.8301763267450869
+      "rate_jpy": 0.0757487375935922,
+      "previous_rate_jpy": 0.07554486762858009,
+      "change_percent": 0.269866069544848
     },
     {
       "code": "MNT",
-      "rate_jpy": 0.04398235156114013,
-      "previous_rate_jpy": 0.044362366665657516,
-      "change_percent": -0.8566159406720031
+      "rate_jpy": 0.04409424476474284,
+      "previous_rate_jpy": 0.04398235156114013,
+      "change_percent": 0.2544047774416278
     },
     {
       "code": "MOP",
-      "rate_jpy": 19.648391277398996,
-      "previous_rate_jpy": 19.796005674014367,
-      "change_percent": -0.7456776839033732
+      "rate_jpy": 19.696643839492896,
+      "previous_rate_jpy": 19.648391277398996,
+      "change_percent": 0.2455802178033967
     },
     {
       "code": "MRU",
-      "rate_jpy": 3.9133167239018696,
-      "previous_rate_jpy": 3.945962928055294,
-      "change_percent": -0.8273317501620253
+      "rate_jpy": 3.9103370786516853,
+      "previous_rate_jpy": 3.9133167239018696,
+      "change_percent": -0.07614117283134977
     },
     {
       "code": "MUR",
-      "rate_jpy": 3.3887598518936044,
-      "previous_rate_jpy": 3.3954991870421076,
-      "change_percent": -0.1984784792239636
+      "rate_jpy": 3.400399426264426,
+      "previous_rate_jpy": 3.3887598518936044,
+      "change_percent": 0.3434759286444471
     },
     {
       "code": "MVR",
-      "rate_jpy": 10.288199402830065,
-      "previous_rate_jpy": 10.374224912535325,
-      "change_percent": -0.8292234883139521
+      "rate_jpy": 10.316044083733008,
+      "previous_rate_jpy": 10.288199402830065,
+      "change_percent": 0.27064678485220084
     },
     {
       "code": "MWK",
-      "rate_jpy": 0.09163894853465195,
-      "previous_rate_jpy": 0.09231806977112426,
-      "change_percent": -0.7356319712446348
+      "rate_jpy": 0.09180264767889025,
+      "previous_rate_jpy": 0.09163894853465195,
+      "change_percent": 0.17863490017719338
     },
     {
       "code": "MXN",
-      "rate_jpy": 8.320329090848354,
-      "previous_rate_jpy": 8.45604147230531,
-      "change_percent": -1.6049162235241288
+      "rate_jpy": 8.265408876728985,
+      "previous_rate_jpy": 8.320329090848354,
+      "change_percent": -0.6600726187594677
     },
     {
       "code": "MYR",
-      "rate_jpy": 38.57642269227365,
-      "previous_rate_jpy": 38.89835195221767,
-      "change_percent": -0.8276167081306565
+      "rate_jpy": 38.58229307554156,
+      "previous_rate_jpy": 38.57642269227365,
+      "change_percent": 0.015217541851230556
     },
     {
       "code": "MZN",
-      "rate_jpy": 2.4868064470118383,
-      "previous_rate_jpy": 2.5098487011133312,
-      "change_percent": -0.9180734317280467
+      "rate_jpy": 2.492622833404956,
+      "previous_rate_jpy": 2.4868064470118383,
+      "change_percent": 0.23388979066331328
     },
     {
       "code": "NAD",
-      "rate_jpy": 9.081344049336675,
-      "previous_rate_jpy": 9.257270410849285,
-      "change_percent": -1.900412904720049
+      "rate_jpy": 9.086067264363255,
+      "previous_rate_jpy": 9.081344049336675,
+      "change_percent": 0.052010087944249876
     },
     {
       "code": "NGN",
-      "rate_jpy": 0.1152451903393133,
-      "previous_rate_jpy": 0.11734695511879378,
-      "change_percent": -1.7910688669789578
+      "rate_jpy": 0.11446327439822089,
+      "previous_rate_jpy": 0.1152451903393133,
+      "change_percent": -0.6784803242462722
     },
     {
       "code": "NIO",
-      "rate_jpy": 4.303280711627126,
-      "previous_rate_jpy": 4.344506733936023,
-      "change_percent": -0.9489229694793708
+      "rate_jpy": 4.318830508053908,
+      "previous_rate_jpy": 4.303280711627126,
+      "change_percent": 0.36134748041807085
     },
     {
       "code": "NOK",
-      "rate_jpy": 16.267027430490764,
-      "previous_rate_jpy": 16.514674806292557,
-      "change_percent": -1.4995595051464967
+      "rate_jpy": 16.21941557533672,
+      "previous_rate_jpy": 16.267027430490764,
+      "change_percent": -0.29268933957043675
     },
     {
       "code": "NPR",
-      "rate_jpy": 1.0698944526264114,
-      "previous_rate_jpy": 1.0716723549488054,
-      "change_percent": -0.16589980269473176
+      "rate_jpy": 1.070019529808785,
+      "previous_rate_jpy": 1.0698944526264114,
+      "change_percent": 0.011690609486430241
     },
     {
       "code": "NZD",
-      "rate_jpy": 87.31470352564102,
-      "previous_rate_jpy": 88.40623428858723,
-      "change_percent": -1.2346762326546885
+      "rate_jpy": 86.66268240450222,
+      "previous_rate_jpy": 87.31470352564102,
+      "change_percent": -0.7467483651792137
     },
     {
       "code": "OMR",
-      "rate_jpy": 412.56507335541886,
-      "previous_rate_jpy": 416.0908660672031,
-      "change_percent": -0.8473612374886323
+      "rate_jpy": 413.71849738468853,
+      "previous_rate_jpy": 412.56507335541886,
+      "change_percent": 0.2795738427125687
     },
     {
       "code": "PAB",
-      "rate_jpy": 158.6442220200182,
-      "previous_rate_jpy": 159.97088791848617,
-      "change_percent": -0.8293170812079179
+      "rate_jpy": 159.07304141146355,
+      "previous_rate_jpy": 158.6442220200182,
+      "change_percent": 0.2703025587602232
     },
     {
       "code": "PEN",
-      "rate_jpy": 46.069493988637866,
-      "previous_rate_jpy": 46.78960112822969,
-      "change_percent": -1.5390324393198571
+      "rate_jpy": 46.030738301193026,
+      "previous_rate_jpy": 46.069493988637866,
+      "change_percent": -0.08412440443647813
     },
     {
       "code": "PGK",
-      "rate_jpy": 35.31425330659699,
-      "previous_rate_jpy": 35.60955852571892,
-      "change_percent": -0.8292863808144239
+      "rate_jpy": 35.139337641357024,
+      "previous_rate_jpy": 35.31425330659699,
+      "change_percent": -0.4953118043339434
     },
     {
       "code": "PHP",
-      "rate_jpy": 2.4874805609850053,
-      "previous_rate_jpy": 2.511497700459908,
-      "change_percent": -0.9562875359394066
+      "rate_jpy": 2.4911597543342254,
+      "previous_rate_jpy": 2.4874805609850053,
+      "change_percent": 0.14790842617733954
     },
     {
       "code": "PKR",
-      "rate_jpy": 0.5735755849911702,
-      "previous_rate_jpy": 0.5782780049145738,
-      "change_percent": -0.8131763413858797
+      "rate_jpy": 0.5750759866365309,
+      "previous_rate_jpy": 0.5735755849911702,
+      "change_percent": 0.2615874323492677
     },
     {
       "code": "PLN",
-      "rate_jpy": 39.106834443622006,
-      "previous_rate_jpy": 39.80982567353408,
-      "change_percent": -1.7658736706788123
+      "rate_jpy": 39.02619538889387,
+      "previous_rate_jpy": 39.106834443622006,
+      "change_percent": -0.2062019487780088
     },
     {
       "code": "PYG",
-      "rate_jpy": 0.025140518700739144,
-      "previous_rate_jpy": 0.025486569690926063,
-      "change_percent": -1.3577778193905905
+      "rate_jpy": 0.024827784975202175,
+      "previous_rate_jpy": 0.025140518700739144,
+      "change_percent": -1.2439430119147674
     },
     {
       "code": "QAR",
-      "rate_jpy": 43.583141685831414,
-      "previous_rate_jpy": 43.94791432356102,
-      "change_percent": -0.8300112607028747
+      "rate_jpy": 43.70134110201416,
+      "previous_rate_jpy": 43.583141685831414,
+      "change_percent": 0.2712044419257031
     },
     {
       "code": "RON",
-      "rate_jpy": 32.593049557886076,
-      "previous_rate_jpy": 32.88388532530436,
-      "change_percent": -0.8844324949475683
+      "rate_jpy": 32.53557205093207,
+      "previous_rate_jpy": 32.593049557886076,
+      "change_percent": -0.17634896928538893
     },
     {
       "code": "RSD",
-      "rate_jpy": 1.4798989237947544,
-      "previous_rate_jpy": 1.4928350877371714,
-      "change_percent": -0.8665500997853406
+      "rate_jpy": 1.4832538332236582,
+      "previous_rate_jpy": 1.4798989237947544,
+      "change_percent": 0.22669855183765963
     },
     {
       "code": "RWF",
-      "rate_jpy": 0.10739998526522715,
-      "previous_rate_jpy": 0.10830285108610502,
-      "change_percent": -0.8336491715809536
+      "rate_jpy": 0.10774351483233348,
+      "previous_rate_jpy": 0.10739998526522715,
+      "change_percent": 0.31985997601207655
     },
     {
       "code": "SAR",
-      "rate_jpy": 42.30461262223085,
-      "previous_rate_jpy": 42.65890344492965,
-      "change_percent": -0.8305202292791488
+      "rate_jpy": 42.419736232661315,
+      "previous_rate_jpy": 42.30461262223085,
+      "change_percent": 0.2721301609791103
     },
     {
       "code": "SBD",
-      "rate_jpy": 19.46565737763487,
-      "previous_rate_jpy": 19.62850509019468,
-      "change_percent": -0.8296490833688568
+      "rate_jpy": 19.470521757617124,
+      "previous_rate_jpy": 19.46565737763487,
+      "change_percent": 0.02498954896762911
     },
     {
       "code": "SCR",
-      "rate_jpy": 10.865297728476614,
-      "previous_rate_jpy": 10.869148653409898,
-      "change_percent": -0.035429867196411266
+      "rate_jpy": 10.808947306304235,
+      "previous_rate_jpy": 10.865297728476614,
+      "change_percent": -0.5186275018004467
     },
     {
       "code": "SDG",
-      "rate_jpy": 0.2643116776643671,
-      "previous_rate_jpy": 0.2665413994848342,
-      "change_percent": -0.8365386483212972
+      "rate_jpy": 0.2650454130739084,
+      "previous_rate_jpy": 0.2643116776643671,
+      "change_percent": 0.27760234281930884
     },
     {
       "code": "SEK",
-      "rate_jpy": 15.549609810479375,
-      "previous_rate_jpy": 15.774647887323944,
-      "change_percent": -1.42658066571111
+      "rate_jpy": 15.484760845383757,
+      "previous_rate_jpy": 15.549609810479375,
+      "change_percent": -0.41704561005713114
     },
     {
       "code": "SGD",
-      "rate_jpy": 123.12853107344633,
-      "previous_rate_jpy": 124.04063205417607,
-      "change_percent": -0.7353243575309879
+      "rate_jpy": 123.20164259416595,
+      "previous_rate_jpy": 123.12853107344633,
+      "change_percent": 0.0593782124112323
     },
     {
       "code": "SHP",
-      "rate_jpy": 208.21639696662086,
-      "previous_rate_jpy": 210.3827424893217,
-      "change_percent": -1.0297163622205407
+      "rate_jpy": 207.9643373609169,
+      "previous_rate_jpy": 208.21639696662086,
+      "change_percent": -0.12105655912602524
     },
     {
       "code": "SLE",
-      "rate_jpy": 6.780801406330823,
-      "previous_rate_jpy": 6.865531781977198,
-      "change_percent": -1.2341414814916831
+      "rate_jpy": 6.831530017745253,
+      "previous_rate_jpy": 6.780801406330823,
+      "change_percent": 0.7481211788191924
     },
     {
       "code": "SOS",
-      "rate_jpy": 0.27751501263103173,
-      "previous_rate_jpy": 0.28003656528400206,
-      "change_percent": -0.9004369305890705
+      "rate_jpy": 0.27839172424164615,
+      "previous_rate_jpy": 0.27751501263103173,
+      "change_percent": 0.31591502106592284
     },
     {
       "code": "SRD",
-      "rate_jpy": 4.254514397266959,
-      "previous_rate_jpy": 4.285226885022177,
-      "change_percent": -0.7167062230138812
+      "rate_jpy": 4.2613998138805895,
+      "previous_rate_jpy": 4.254514397266959,
+      "change_percent": 0.16183789665991932
     },
     {
       "code": "SSP",
-      "rate_jpy": 0.0266568611412225,
-      "previous_rate_jpy": 0.0268809088144203,
-      "change_percent": -0.8334825088860478
+      "rate_jpy": 0.027534868176877943,
+      "previous_rate_jpy": 0.0266568611412225,
+      "change_percent": 3.2937375147206773
     },
     {
       "code": "STN",
-      "rate_jpy": 7.116326530612245,
-      "previous_rate_jpy": 7.177142857142857,
-      "change_percent": -0.847361237488627
+      "rate_jpy": 7.102448979591836,
+      "previous_rate_jpy": 7.116326530612245,
+      "change_percent": -0.19501003728133923
     },
     {
       "code": "SVC",
-      "rate_jpy": 18.130673959839022,
-      "previous_rate_jpy": 18.282387190684133,
-      "change_percent": -0.8298327196703127
+      "rate_jpy": 18.179823644949643,
+      "previous_rate_jpy": 18.130673959839022,
+      "change_percent": 0.2710858141263324
     },
     {
       "code": "SYP",
-      "rate_jpy": 1.3003624755739196,
-      "previous_rate_jpy": 1.3112367862171,
-      "change_percent": -0.8293170812079318
+      "rate_jpy": 1.3038773886185537,
+      "previous_rate_jpy": 1.3003624755739196,
+      "change_percent": 0.27030255876022713
     },
     {
       "code": "SZL",
-      "rate_jpy": 9.081344049336675,
-      "previous_rate_jpy": 9.257270410849285,
-      "change_percent": -1.900412904720049
+      "rate_jpy": 9.086067264363255,
+      "previous_rate_jpy": 9.081344049336675,
+      "change_percent": 0.052010087944249876
     },
     {
       "code": "THB",
-      "rate_jpy": 4.6790295743653045,
-      "previous_rate_jpy": 4.7182569496619085,
-      "change_percent": -0.831395485983755
+      "rate_jpy": 4.672412867192954,
+      "previous_rate_jpy": 4.6790295743653045,
+      "change_percent": -0.14141195449160468
     },
     {
       "code": "TJS",
-      "rate_jpy": 17.195467142702157,
-      "previous_rate_jpy": 17.36399814352158,
-      "change_percent": -0.970577164466597
+      "rate_jpy": 17.22871287128713,
+      "previous_rate_jpy": 17.195467142702157,
+      "change_percent": 0.19334007217758212
     },
     {
       "code": "TMT",
-      "rate_jpy": 45.32692057714806,
-      "previous_rate_jpy": 45.70596797671033,
-      "change_percent": -0.8293170812079068
+      "rate_jpy": 45.44884686708282,
+      "previous_rate_jpy": 45.32692057714806,
+      "change_percent": 0.2689931025145193
     },
     {
       "code": "TND",
-      "rate_jpy": 51.73283484659664,
-      "previous_rate_jpy": 52.43007931301807,
-      "change_percent": -1.329855830006935
+      "rate_jpy": 51.937082139446034,
+      "previous_rate_jpy": 51.73283484659664,
+      "change_percent": 0.3948117157218418
     },
     {
       "code": "TOP",
-      "rate_jpy": 66.05918235895881,
-      "previous_rate_jpy": 66.69195175604946,
-      "change_percent": -0.948794240428356
+      "rate_jpy": 66.1735625190143,
+      "previous_rate_jpy": 66.05918235895881,
+      "change_percent": 0.1731480105732454
     },
     {
       "code": "TRY",
-      "rate_jpy": 3.1369874844365118,
-      "previous_rate_jpy": 3.169790369129876,
-      "change_percent": -1.034859750121857
+      "rate_jpy": 3.1443517857626873,
+      "previous_rate_jpy": 3.1369874844365118,
+      "change_percent": 0.23475711531244192
     },
     {
       "code": "TTD",
-      "rate_jpy": 23.46662718548528,
-      "previous_rate_jpy": 23.653165816978518,
-      "change_percent": -0.7886412877524374
+      "rate_jpy": 23.544454517163462,
+      "previous_rate_jpy": 23.46662718548528,
+      "change_percent": 0.3316511191106365
     },
     {
       "code": "TWD",
-      "rate_jpy": 4.811314246291825,
-      "previous_rate_jpy": 4.854468103902845,
-      "change_percent": -0.88895130604167
+      "rate_jpy": 4.830511532877514,
+      "previous_rate_jpy": 4.811314246291825,
+      "change_percent": 0.3990029668189988
     },
     {
       "code": "TZS",
-      "rate_jpy": 0.059657282172990926,
-      "previous_rate_jpy": 0.060269612602189535,
-      "change_percent": -1.0159853411375055
+      "rate_jpy": 0.0596672214256382,
+      "previous_rate_jpy": 0.059657282172990926,
+      "change_percent": 0.016660585741151153
     },
     {
       "code": "UAH",
-      "rate_jpy": 3.538212081670093,
-      "previous_rate_jpy": 3.549920760697306,
-      "change_percent": -0.32982930652551395
+      "rate_jpy": 3.5185522191891616,
+      "previous_rate_jpy": 3.538212081670093,
+      "change_percent": -0.55564398139898
     },
     {
       "code": "UGX",
-      "rate_jpy": 0.037619536698197883,
-      "previous_rate_jpy": 0.038155830460000824,
-      "change_percent": -1.4055355507597798
+      "rate_jpy": 0.0376150814838513,
+      "previous_rate_jpy": 0.037619536698197883,
+      "change_percent": -0.011842820878748363
     },
     {
       "code": "USD",
-      "rate_jpy": 158.6442220200182,
-      "previous_rate_jpy": 159.97088791848617,
-      "change_percent": -0.8293170812079179
+      "rate_jpy": 159.07304141146355,
+      "previous_rate_jpy": 158.6442220200182,
+      "change_percent": 0.2703025587602232
     },
     {
       "code": "UYU",
-      "rate_jpy": 3.9045091650150603,
-      "previous_rate_jpy": 3.9396947095080086,
-      "change_percent": -0.8931033262052505
+      "rate_jpy": 3.918694023884644,
+      "previous_rate_jpy": 3.9045091650150603,
+      "change_percent": 0.3632942905265005
     },
     {
       "code": "UZS",
-      "rate_jpy": 0.013230383973288814,
-      "previous_rate_jpy": 0.013341001273100554,
-      "change_percent": -0.8291529064971874
+      "rate_jpy": 0.01324117800142753,
+      "previous_rate_jpy": 0.013230383973288814,
+      "change_percent": 0.08158514643647086
     },
     {
       "code": "VES",
-      "rate_jpy": 0.17288704709617686,
-      "previous_rate_jpy": 0.17452107443208695,
-      "change_percent": -0.9362922737138846
+      "rate_jpy": 0.17315525372105675,
+      "previous_rate_jpy": 0.17288704709617686,
+      "change_percent": 0.15513401922510012
     },
     {
       "code": "VND",
-      "rate_jpy": 0.006156643949291995,
-      "previous_rate_jpy": 0.006219801209720208,
-      "change_percent": -1.0154224917914094
+      "rate_jpy": 0.006164883440799263,
+      "previous_rate_jpy": 0.006156643949291995,
+      "change_percent": 0.1338308918808881
     },
     {
       "code": "VUV",
-      "rate_jpy": 1.311691242852844,
-      "previous_rate_jpy": 1.3263936033793469,
-      "change_percent": -1.1084462778653805
+      "rate_jpy": 1.3129857390779445,
+      "previous_rate_jpy": 1.311691242852844,
+      "change_percent": 0.09868909563541998
     },
     {
       "code": "WST",
-      "rate_jpy": 56.522725799131166,
-      "previous_rate_jpy": 57.21350946834125,
-      "change_percent": -1.207378599266534
+      "rate_jpy": 56.64203639204453,
+      "previous_rate_jpy": 56.522725799131166,
+      "change_percent": 0.21108428729599427
     },
     {
       "code": "XAF",
-      "rate_jpy": 0.26579486155342497,
-      "previous_rate_jpy": 0.2680663519102624,
-      "change_percent": -0.8473612374886339
+      "rate_jpy": 0.2652765348948178,
+      "previous_rate_jpy": 0.26579486155342497,
+      "change_percent": -0.19501003728132574
     },
     {
       "code": "XCD",
-      "rate_jpy": 58.757119266673406,
-      "previous_rate_jpy": 59.24927555765213,
-      "change_percent": -0.8306536853768574
+      "rate_jpy": 58.9165396986626,
+      "previous_rate_jpy": 58.757119266673406,
+      "change_percent": 0.27132104837484644
     },
     {
       "code": "XCG",
-      "rate_jpy": 88.62850752338349,
-      "previous_rate_jpy": 89.36775767432405,
-      "change_percent": -0.8272000665324457
+      "rate_jpy": 88.86675859251315,
+      "previous_rate_jpy": 88.62850752338349,
+      "change_percent": 0.2688199043257055
     },
     {
       "code": "XDR",
-      "rate_jpy": 213.03399013213362,
-      "previous_rate_jpy": 215.06191713805228,
-      "change_percent": -0.9429503060818021
+      "rate_jpy": 213.665978226969,
+      "previous_rate_jpy": 213.03399013213362,
+      "change_percent": 0.2966606852002302
     },
     {
       "code": "XOF",
-      "rate_jpy": 0.26579486155342497,
-      "previous_rate_jpy": 0.2680663519102624,
-      "change_percent": -0.8473612374886339
+      "rate_jpy": 0.2652765348948178,
+      "previous_rate_jpy": 0.26579486155342497,
+      "change_percent": -0.19501003728132574
     },
     {
       "code": "XPF",
-      "rate_jpy": 1.461053517212945,
-      "previous_rate_jpy": 1.4735397216330615,
-      "change_percent": -0.8473612374886275
+      "rate_jpy": 1.4582043162043279,
+      "previous_rate_jpy": 1.461053517212945,
+      "change_percent": -0.19501003728133265
     },
     {
       "code": "YER",
-      "rate_jpy": 0.6709123792665563,
-      "previous_rate_jpy": 0.676489824183434,
-      "change_percent": -0.8244684129003633
+      "rate_jpy": 0.6727364107322352,
+      "previous_rate_jpy": 0.6709123792665563,
+      "change_percent": 0.2718732761605808
     },
     {
       "code": "ZAR",
-      "rate_jpy": 9.081344049336675,
-      "previous_rate_jpy": 9.257270410849285,
-      "change_percent": -1.900412904720049
+      "rate_jpy": 9.086067264363255,
+      "previous_rate_jpy": 9.081344049336675,
+      "change_percent": 0.052010087944249876
     },
     {
       "code": "ZMW",
-      "rate_jpy": 7.670817017906639,
-      "previous_rate_jpy": 7.72061083449687,
-      "change_percent": -0.64494659370401
+      "rate_jpy": 7.676189299830604,
+      "previous_rate_jpy": 7.670817017906639,
+      "change_percent": 0.07003532884989404
     },
     {
       "code": "ZWG",
-      "rate_jpy": 5.966946504536385,
-      "previous_rate_jpy": 6.0207837564842235,
-      "change_percent": -0.8941900942689894
+      "rate_jpy": 5.990677114174367,
+      "previous_rate_jpy": 5.966946504536385,
+      "change_percent": 0.3977010623430293
     }
   ]
 }
